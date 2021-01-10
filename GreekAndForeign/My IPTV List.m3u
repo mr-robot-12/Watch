@@ -59,21 +59,12 @@ https://kontralive.siliconweb.com/live/kontratv/chunklist.m3u8
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="https://news.sky.com/resources/sky-news-logo.png?v=1?bypass-service-worker",SKYNEWS
 https://www.youtube.com/watch?v=9Auq9mYxFEE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WBiCDLB.png" group-title="USA",Fox News Channel (Opt-1)
-http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="",DW News (DE)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="USA",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 group-title="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1134px-NBC_logo.svg.png",NBC News
-https://www.youtube.com/watch?v=7V0WfBSQgr0&feature=emb_logo
-
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Reuters_TV_logo.png",REUTERS
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/e936b88d-f1de-428c-b562-2c3990e1db55/7.m3u8
@@ -104,9 +95,6 @@ https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="" tvg-name="" tvg-logo="",HOLLYWOOD CLASSICS
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/4059d263-c0e9-4e68-b642-57c7c470fd82/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mO4czyn.png" group-title="",Sherlock Holmes
-http://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",THE FILM DETECTIVE
 https://filmdetective-plex.amagi.tv/amRdirect/us_privacy=1---&did=49f0d1ef-7583-5a90-a574-cb65bea43bb8&dnt=0&X-Plex-Token=_Eae2sye-4-DttsXKFrv&channelId=5eea605674085f0040ddc7a3/hls/amagi_hls_data_plexAAAAA-filmdetective-plex/CDN/1280x720_3256000/chunklist.m3u8
