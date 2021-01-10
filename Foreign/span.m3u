@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Telemundo
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Univision
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Azteca Cinema
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766?checkedby:hlscat.com
+
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Azteca Uno
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="Science.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="USA;Documentaries",DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="(Eastern)Investigation.Discovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="USA;Documentaries",Investigation Discovery ID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735?checkedby:hlscat.com
