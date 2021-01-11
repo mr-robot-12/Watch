@@ -1,0 +1,9 @@
+GreekTV: https://github.com/1nikolas/EPG-GRCY/releases/download/EPG/EPG-GRCY.xml.gz
+
+USTV #1: https://github.com/epgshare01/share01/raw/master/epg_ripper_US1.xml.gz
+
+USTV #1: https://github.com/epgshare01/share01/raw/master/epg_ripper_US_LOCALS1.xml.gz
+
+PLUTO: https://raw.githubusercontent.com/SilentButeo2/webgrabplus-siteinipack/master/siteini.pack/Networks/pluto.tv.E.channels.xml
+
+pluto rep: https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Networks/pluto.tv.E.channels.xml
