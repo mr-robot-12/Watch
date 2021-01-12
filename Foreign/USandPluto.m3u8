@@ -34,7 +34,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731?checkedby:hlscat.com
 #EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="Crime",Court TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:0 tvg-id="Crime.and.Investigation.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation HD US
+#EXTINF:0 tvg-id="Crime.and.Investigation.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Crime",Crime & Investigation HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4879?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="Discovery.Channel.(US).us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="Documentaries",Discovery Channel US
@@ -505,12 +505,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c99f5810c95814ff9
 #EXTINF:-1 tvg-id="5ca1ddd108ee5378be82db3a" tvg-chno="504" tvg-logo="https://images.pluto.tv/channels/5ca1ddd108ee5378be82db3a/colorLogoPNG.png" group-title="Life + Style",Worst Cooks in America
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1ddd108ee5378be82db3a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=504&deviceId=5ca1ddd108ee5378be82db3a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 
-#EXTINF:-1 tvg-id="5ca1df0d50be2571e393ad31" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/5ca1df0d50be2571e393ad31/colorLogoPNG.png" group-title="Crime & Mystery",Deadly Women
+#EXTINF:-1 tvg-id="5ca1df0d50be2571e393ad31" tvg-chno="209" tvg-logo="https://images.pluto.tv/channels/5ca1df0d50be2571e393ad31/colorLogoPNG.png" group-title="Crime",Deadly Women
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1df0d50be2571e393ad31/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5ca1df0d50be2571e393ad31&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 
 #EXTINF:-1 tvg-id="5ca1e0ee50be2571e393ad33" tvg-chno="626" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="Sports",ESR 24/7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=626&deviceId=5ca1e0ee50be2571e393ad33&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
-#EXTINF:-1 tvg-id="5cb6f6f9a461406ffe4022cf" tvg-chno="200" tvg-logo="https://images.pluto.tv/channels/5cb6f6f9a461406ffe4022cf/colorLogoPNG.png" group-title="Crime & Mystery",FBI Files
+#EXTINF:-1 tvg-id="5cb6f6f9a461406ffe4022cf" tvg-chno="200" tvg-logo="https://images.pluto.tv/channels/5cb6f6f9a461406ffe4022cf/colorLogoPNG.png" group-title="Crime",FBI Files
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=200&deviceId=5cb6f6f9a461406ffe4022cf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 
 #EXTINF:-1 tvg-id="5d135e29a52c94dfe543c5d3" tvg-chno="907" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Comedy",Pluto TV Stand Up
@@ -606,7 +606,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e79c2f28038900007
 #EXTINF:-1 tvg-id="5e8db96bccae160007c71eec" tvg-chno="401" tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" group-title="Sci-Fi",Andromeda
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8db96bccae160007c71eec/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=401&deviceId=5e8db96bccae160007c71eec&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 
-#EXTINF:-1 tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="206" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="Crime & Mystery",Crime Investigation
+#EXTINF:-1 tvg-id="5ea18cd42ee5410007e349dc" tvg-chno="206" tvg-logo="https://images.pluto.tv/channels/5ea18cd42ee5410007e349dc/colorLogoPNG.png" group-title="Crime",Crime Investigation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=206&deviceId=5ea18cd42ee5410007e349dc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 
 #EXTINF:-1 tvg-id="5f0c2f3739f6b900075f366c" tvg-chno="561" tvg-logo="https://images.pluto.tv/channels/5f0c2f3739f6b900075f366c/colorLogoPNG.png" group-title="Curiosity",Naturescape
