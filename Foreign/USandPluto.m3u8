@@ -14,9 +14,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14393?checkedby:hlscat.com
 #EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Cartoons",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/2880px-BBC_America.svg.png" group-title="Entertainment",BBC AME HD (ENG)
+#EXTINF:0 tvg-id="(Central)BBC.America.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/2880px-BBC_America.svg.png" group-title="Entertainment",BBC AME HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/2880px-BBC_America.svg.png" group-title="Entertainment",BBC America US
+#EXTINF:0 tvg-id="(Central)BBC.America.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/2880px-BBC_America.svg.png" group-title="Entertainment",BBC America US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14392?checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)Bravo.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/1920px-Bravo_TV.svg.png" group-title="Entertainment",Bravo (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489?checkedby:hlscat.com
