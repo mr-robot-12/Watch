@@ -11,3 +11,5 @@ pluto (WEBGRAB) rep: https://github.com/SilentButeo2/webgrabplus-siteinipack/blo
 pluto (all playlist): https://i.mjh.nz/PlutoTV/all.xml.gz    <--
 
 plutotv: https://techzyon.com/epg/plutotv_guide.xml
+
+Free2View: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
