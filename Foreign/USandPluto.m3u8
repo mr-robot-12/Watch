@@ -126,6 +126,8 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14353?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Crime",Forensic Files
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=370&deviceId=5bb1af6a268cae539bcedb0a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01//digital/video/merch/subs/benefit-id/a-f/freewithads/epg/CRIME360_WHITE.png" group-title="Crime",Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-name="" tvg-logo="",GRAVITAS MOVIES
 https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/a96cb98f-522d-4524-9248-342c141abb2f/3.m3u8
 #EXTINF:0 tvg-id="US" tvg-logo="" group-title="Entertainment",HBO (M)(720)
