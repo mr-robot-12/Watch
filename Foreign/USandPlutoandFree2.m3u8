@@ -24,6 +24,12 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4883?checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)CBS.us" tvg-logo="https://www.clipartmax.com/png/middle/307-3070036_greuner-discusses-fibroids-on-cbs-news-cbs-blue-logo-png.png" group-title="Entertainment",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="CBS.Justice.uk" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1459.1566661342.png" group-title="Entertainment",CBS Justice (UK)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6636?checkedby:hlscat.com
+#EXTINF:0 tvg-id="CBS.Reality.uk" tvg-logo="https://www.pngfind.com/pngs/m/11-113527_the-above-logo-design-and-the-artwork-you.png" group-title="Entertainment",CBS Reality (UK)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6634?checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports HQ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)Cable.News.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2880px-CNN.svg.png" group-title="News",CNN FHD US
