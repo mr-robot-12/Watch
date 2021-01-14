@@ -22,10 +22,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6634?checkedby:hlscat.com
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
 
 
-
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" group-title="News",Euronews | HD
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 
 #EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Crime",Investigation Discovery (UK)
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
 
 
-
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SkyNews.png?raw=true" group-title="News",Sky News | HD
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true

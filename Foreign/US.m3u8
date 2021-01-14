@@ -2,12 +2,18 @@
 
 #EXTINF:0 tvg-id="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/2880px-5USA_logo.svg.png" group-title="Entertainment",5USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",A&E,US | A&E
+#EXTINF:0 tvg-id="ABC.EAST.Local.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1024px-American_Broadcasting_Company_Logo.svg.png" group-title="Entertainment",ABC
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/260727.ts?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News",ABC News Live | HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 tvg-id="AandE.US.us" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",A&E,US | A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1600px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/105.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Entertainment",Adult Swim,US | Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5938876b78d8d9c074c3c657/colorLogoPNG.png" group-title="Documentaries",Adventure TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=675&deviceId=5938876b78d8d9c074c3c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="(Eastern)Animal.Planet.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Animal HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730?checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)Animal.Planet.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Animal Planet HD US
@@ -18,12 +24,12 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14393?checkedby:hlscat.com
 http://a1.gokakka.club:8880/testzyx030/123456789/2952?checkedby:hlscat.com
 
 
-#EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Cartoons",Anime All Day
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:0 tvg-id="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/2880px-BBC_America.svg.png" group-title="Entertainment",BBC AME HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679?checkedby:hlscat.com
 #EXTINF:0 tvg-id="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/2880px-BBC_America.svg.png" group-title="Entertainment",BBC America US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14392?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",Bloomberg TV
+https://csm-e-cetubiausw2live101-06ebe33587c16b95b.csm.tubi.video/csm/live/240948717.m3u8
 #EXTINF:0 tvg-id="(Eastern)Bravo.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/1920px-Bravo_TV.svg.png" group-title="Entertainment",Bravo (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489?checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)Bravo.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/1920px-Bravo_TV.svg.png" group-title="Entertainment",Bravo HD US
@@ -31,27 +37,31 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4883?checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)CBS.us" tvg-logo="https://www.clipartmax.com/png/middle/307-3070036_greuner-discusses-fibroids-on-cbs-news-cbs-blue-logo-png.png" group-title="Entertainment",CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:hlscat.com
 
-
-#EXTINF:0 tvg-id="CBS.Justice.uk" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1459.1566661342.png" group-title="Entertainment",CBS Justice (UK)
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6636?checkedby:hlscat.com
-#EXTINF:0 tvg-id="CBS.Reality.uk" tvg-logo="https://www.pngfind.com/pngs/m/11-113527_the-above-logo-design-and-the-artwork-you.png" group-title="Entertainment",CBS Reality (UK)
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6634?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports HQ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News",CBS News | HD
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News",CBSN Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News",CBSN New York
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:0 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports HQ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="(Eastern)Cable.News.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2880px-CNN.svg.png" group-title="News",CNN FHD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13750?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="Crime",Cold Case Files
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CNN.png?raw=true" group-title="News",CNN | Event Stream
+https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/de/master.m3u8
+
 #EXTINF:0 tvg-id="(Eastern)Comedy.Central.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1600px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" group-title="Crime",Court TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Entertainment",Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="Crime.and.Investigation.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation HD US
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4879?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Documentaries",Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:0 tvg-id="Crime+Inv.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="CW.(KSTW-TV).Tacoma.WA.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000-700x292.png" group-title="Entertainment",CW11
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4955?checkedby:hlscat.com
@@ -73,15 +83,40 @@ http://yourdnshere.xyz:83/live/trevorparker/8177168823/263032.ts?checkedby:hlsca
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentaries",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:0 tvg-id="Food.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entertainment",Food Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="News",DW News (DE)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Entertainment",Electric Now | HD
+https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8
+
+#EXTINF:0 tvg-id="(Eastern)ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2880px-ESPN_wordmark.svg.png" group-title="Sports",ESPN HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14363?checkedby:hlscat.com
+#EXTINF:0 tvg-id="(Eastern)ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2880px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="Sports",fubo Sports Network
+https://csm-e-cetubiausw2live101-08c231fb1e230ccd2.csm.tubi.video/csm/live/246665421.m3u8
+
+#EXTINF:0 tvg-id="Food.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entertainment; Home + DIY",Food Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",Fox News Now
+https://lnc-fox-news-now.tubi.video/index.m3u8
 #EXTINF:0 tvg-id="Fox.Sports.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2000px-FOX_Sports_logo.svg.png" group-title="Sports",FOX Sports
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-id="(Eastern)FX.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" group-title="Entertainment",FX HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4942?checkedby:hlscat.com
+#EXTINF:0 tvg-id="(Eastern)FXX.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1501px-FXX_Logo.svg.png" group-title="Entertainment",FXX HD US
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14353?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",GRAVITAS MOVIES
+https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/a96cb98f-522d-4524-9248-342c141abb2f/3.m3u8
 
 #EXTINF:0 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/844px-HBO_logo.svg.png" group-title="Entertainment",HBO
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8?checkedby:hlscat.com
-
+#EXTINF:0 tvg-id="HBO.us" tvg-logo="" group-title="Entertainment",HBO (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35801?checkedby:hlscat.com
+#EXTINF:0 tvg-id="HBO.2.us" tvg-logo="" group-title="Entertainment",HBO 2 (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35797?checkedby:hlscat.com
 #EXTINF:0 tvg-id="HBO.Comedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Entertainment",HBO Comedy
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4921?checkedby:hlscat.com
 
@@ -97,13 +132,97 @@ http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1370?checkedby
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentaries",H2
 http://iptvtree.net:8080/766a3d10/7781c6505e/6310?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1000px-Showtime.svg.png" group-title="Entertainment",Showtime HD
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4926?checkedby:hlscat.com
+#EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Tech",IDG,US | IDG
+https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="Investigation.Discovery.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentaries",Investigation Discovery ID
+http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1405?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="Investigation.Discovery.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentaries",Investigation Discovery ID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="(Eastern)Investigation.Discovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentaries",Investigation Discovery (EAST)
+http://iptvtree.net:8080/766a3d10/7781c6505e/30923?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="Justice.Central.us" tvg-logo="https://entertainmentstudios.com/wp-content/uploads/2018/07/jc_sq_2.png" group-title="Documentaries",Justice Central
+http://iptvtree.net:8080/766a3d10/7781c6505e/150732?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentaries",Law & Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Documentaries" tvg-id="" tvg-logo="",MAGELLAN TV
+https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/09b89b45-3357-40da-aea2-11dd943accf2/3.m3u8
+
+#EXTINF:-1 group-title="Documentaries" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geographic (CAN)
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/102.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Documentaries" tvg-id="National.Geographic.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geographic (US-FHD)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4881?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Documentaries" tvg-id="National.Geographic.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geographic (US-HD)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14339?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Documentaries" tvg-id="(Eastern)National.Geographic.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geo (US-EAST)
+http://iptvtree.net:8080/766a3d10/7781c6505e/6494?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Documentaries" tvg-id="National.Geographic.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",Nat Geo (HD)
+http://iptvtree.net:8080/766a3d10/7781c6505e/749?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Documentaries" tvg-id="National.Geographic.Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",Nat Geo Wild (US-EAST)
+http://iptvtree.net:8080/766a3d10/7781c6505e/150733?checkedby:hlscat.com
+#EXTINF:-1 group-title="Documentaries" tvg-id="National.Geographic.Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",Nat Geo Wild (US-FHD)
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13745?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News",NBC News Now | HD
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1280px-MLBNetworkLogo.svg.png",MLB Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg",NHL Network
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4875?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg",NHL Network-2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/2880px-NFL_Network_logo.svg.png",NFL Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Sports" tvg-id="NFL.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/2880px-NFL_Network_logo.svg.png",NFL Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616?checkedby:hlscat.com
 
 
 #EXTINF:0 tvg-id="Oxygen.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="Entertainment",Oxygen
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/51015?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV | HD
+https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | WPSU TV | HD
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="News",PBS | Maryland Public TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Cartoons",PBS | KET TV HD
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="PBS.Kids.(KAET4).Phoenix.AZ.us" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" group-title="Cartoons",PBS Kids | KET TV HD
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="PBS.World.us" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="News",PBS | World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Home + DIY" tvg-id="Pursuit.Channel.us" tvg-logo="",Pursuit Channel
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/354961.ts?checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Crime" tvg-id="Rescue 911" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Rescue_911.jpg",RESCUE 911
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=277&deviceId=5f21e831e9fe730007706acb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+
+#EXTINF:-1 group-title="Entertainment; Sci-Fi" tvg-id="Syfy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",SyFy
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652?checkedby:hlscat.com
+
+
+#EXTINF:0 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1000px-Showtime.svg.png" group-title="Entertainment",Showtime HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4926?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="(Eastern)Smithsonian.Channel.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Documentaries",Smithsonian
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/326616.ts?checkedby:hlscat.com
 
@@ -116,91 +235,100 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660?checkedby:hlscat.com
 
+#EXTINF:0 tvg-id="truTV.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/2880px-TruTV_2014.svg.png" group-title="Entertainment",Tru TV
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/257059.ts?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="News",DW News (DE)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-
-
-#EXTINF:0 tvg-id="(Eastern)ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2880px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 2 HD (ENG)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
-#EXTINF:0 tvg-id="(Eastern)ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2880px-ESPN_wordmark.svg.png" group-title="Sports",ESPN HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14363?checkedby:hlscat.com
-#EXTINF:0 tvg-id="(Eastern)FX.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" group-title="Entertainment",FX HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4942?checkedby:hlscat.com
-#EXTINF:0 tvg-id="(Eastern)FXX.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1501px-FXX_Logo.svg.png" group-title="Entertainment",FXX HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14353?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="US" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="Crime",Forensic Files
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=370&deviceId=5bb1af6a268cae539bcedb0a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:-1 group-title="MOVIES" tvg-name="" tvg-logo="",GRAVITAS MOVIES
-https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/a96cb98f-522d-4524-9248-342c141abb2f/3.m3u8
-#EXTINF:0 tvg-id="US" tvg-logo="" group-title="Entertainment",HBO (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35801?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="" group-title="Entertainment",HBO 2 (M)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/35797?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Tech",IDG,US | IDG
-https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="Investigation.Discovery.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Crime",Investigation Discovery ID
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1405?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="Investigation.Discovery.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Crime",Investigation Discovery ID
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="(Eastern)Investigation.Discovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Crime",Investigation Discovery (EAST)
-http://iptvtree.net:8080/766a3d10/7781c6505e/30923?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Crime",Investigation Discovery (UK)
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="Justice.Central.us" tvg-logo="https://entertainmentstudios.com/wp-content/uploads/2018/07/jc_sq_2.png" group-title="Crime",Justice Central
-http://iptvtree.net:8080/766a3d10/7781c6505e/150732?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Crime",Law & Crime Network
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-
-#EXTINF:-1 group-title="Documentaries" tvg-name="" tvg-logo="",MAGELLAN TV
-https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/09b89b45-3357-40da-aea2-11dd943accf2/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",Weather Nation
+https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true" group-title="Sports",WPT | World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PNIA_900x900.png?raw=true" group-title="Sports",Poker Night In America
+https://pokernight-rushstreet-glewedtv.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Documentaries" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geographic (CAN)
-http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/102.m3u8?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Documentaries" tvg-name="National.Geographic.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geographic (US-FHD)
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4881?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Documentaries" tvg-name="National.Geographic.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geographic (US-HD)
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14339?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Documentaries" tvg-name="(Eastern)National.Geographic.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geo (US-EAST)
-http://iptvtree.net:8080/766a3d10/7781c6505e/6494?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Documentaries" tvg-name="National.Geographic.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",Nat Geo (HD)
-http://iptvtree.net:8080/766a3d10/7781c6505e/749?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Documentaries" tvg-name="National.Geographic.Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",Nat Geo Wild (US-EAST)
-http://iptvtree.net:8080/766a3d10/7781c6505e/150733?checkedby:hlscat.com
-#EXTINF:-1 group-title="Documentaries" tvg-name="National.Geographic.Wild.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",Nat Geo Wild (US-FHD)
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13745?checkedby:hlscat.com
-#EXTINF:-1 group-title="Sports" tvg-name="NHL.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg",NHL Network
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4875?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Sports" tvg-name="NHL.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/NHL_Network_2012.jpg",NHL Network-2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1163?checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Sports" tvg-name="NFL.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/2880px-NFL_Network_logo.svg.png",NFL Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-
-#EXTINF:-1 group-title="Sports" tvg-name="NFL.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/2880px-NFL_Network_logo.svg.png",NFL Network
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616?checkedby:hlscat.com
 
 
-#EXTINF:-1 group-title="Home + DIY" tvg-name="" tvg-logo="",Pursuit Channel
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/354961.ts?checkedby:hlscat.com
 
-#EXTINF:-1 group-title="Crime" tvg-id="Rescue 911" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/91/Rescue_911.jpg",RESCUE 911
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=277&deviceId=5f21e831e9fe730007706acb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Classic TV",247 Retro TV
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-184209249-11-06-2019" tvg-chno="225" tvg-type="live" group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjM5NTU2NjFf/TheAsylum_NEW_939x939.png",Asylum Movies
+https://asylum-stirr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Gameshows & Competitions",Buzzr | Webstream
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Gameshows & Competitions",Buzzr | Source 2
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CookingPanda_900x900.png?raw=true" group-title="Home + DIY",Cooking Panda | Source 1
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CookingPanda_900x900.png?raw=true" group-title="Home + DIY",Cooking Panda | Source 2
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=8f68c53f-f16a-45dd-b3eb-939325b0385a&device_model=Web&device_width=632&device_height=356&us_privacy=0&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-chno="98" tvg-type="live" group-title="Classic TV" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTVf/ChargeTV.png",Charge!
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-chno="101" tvg-type="live" group-title="Classic TV" tvg-logo="https://od.lk/s/MF8yMjM5NTQzOTZf/CometTV.png",Comet TV
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
-#EXTINF:-1 group-title="Sci-Fi" tvg-name="Syfy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",SyFy
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="Sci-Fi",Dark Matter TV
+https://dmtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" group-title="Gameshows & Competitions",Deal or No Deal | Sinclair
+https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DealOrNoDeal_400x400.png?raw=true" group-title="Gameshows & Competitions",Deal or No Deal | Source 2
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESTV_240x240.png?raw=true" group-title="Gaming",ESTV | eSports Television
+https://estv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESR24x7_180x180.png?raw=true" group-title="Gaming",ESR 24x7 | eSports Revolution
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Gameshows & Competitions",Game Show Central | Ch.1
+https://gsn-gameshowchannnel-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GameShowCentral_203x203.png?raw=true" group-title="Gameshows & Competitions",Game Show Central | Ch.2
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalGotTalent_800x800.png?raw=true" group-title="Gameshows & Competitions",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/GlobalNews_650x650.png?raw=true" group-title="News",Global News National
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Home + DIY",Harley Davidson TV
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Home + DIY",Harley Davidson Racing TV
+https://hdtv.prod2.ioio.tv/broker/play/797c5c1c-160c-4c17-a149-e31a0467ab62.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Home + DIY",Harley Davidson Factory TV
+https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HarleyDavidsonTV_375x375.png?raw=true" group-title="Home + DIY",Harley Davidson Garage TV
+https://hdtv.prod2.ioio.tv/broker/play/b8789d55-d110-4452-a578-3a206afa3972.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" group-title="Classic TV",Hollywood Classics
+https://vitor-hollywoodclassics-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/IGN_864x864.png?raw=true" group-title="Gaming",IGN | HD
+https://ign-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV | HD
+https://outsidetvplus-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OutdoorCookingChannel.png" group-title="Home + DIY",Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports",Red Bull TV | HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Cartoons",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="Sports",Ring of Honor Wrestling | HD
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU4OTUzMzVf/RakutenTV_512x512.png" group-title="Movies",Rakuten Action Movies
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AdultSwim_262x262.png?raw=true" group-title="Cartoons",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-chno="59" tvg-logo="https://od.lk/s/MF8yMjQwMDg4ODBf/ShoutFactoryTV_310x310.png" group-title="Classic TV",Shout! Factory TV
+https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" group-title="Entertainment",Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FamilyFeud_755x755.png?raw=true" group-title="Gameshows & Competitions",The Best of 'Family Feud'
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-chno="229" tvg-logo="https://od.lk/s/MF8yMjM5NjA3MTRf/FilmDetective_400x400.png" group-title="Classic TV",The Film Detective
+https://tfd-distro.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports",The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TennisChannelPlus_244x244.png?raw=true" group-title="The Tennis Channel Free",The Tennis Channel | Plus 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThisOldHouse_245x245.png?raw=true" group-title="Home + DIY",This Old House HD
+http://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TWiT.png" group-title="Tech",TWiT | This Week in Tech
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" group-title="Sports",VSiN
+https://stream.rcncdn.com/live/vsinproxy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Documentaries",Unidentified TV
+https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="Gameshows & Competitions",Wipeout Xtra | HD
+https://endemol-wipeoutxtra-1.plex.wurl.com/manifest/playlist.m3u8

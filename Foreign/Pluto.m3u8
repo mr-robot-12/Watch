@@ -390,6 +390,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af39510fd17b31a
 #EXTINF:-1 tvg-id="5d767790d0438aceb41d03ae" tvg-chno="205" tvg-logo="https://images.pluto.tv/channels/5d767790d0438aceb41d03ae/colorLogoPNG.png" group-title="Crime",Pluto TV Crime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=205&deviceId=5d767790d0438aceb41d03ae&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01//digital/video/merch/subs/benefit-id/a-f/freewithads/epg/CRIME360_WHITE.png" group-title="Crime",Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="5d7677fa2ec536ce1d587eeb" tvg-chno="607" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="Sports",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=607&deviceId=5d7677fa2ec536ce1d587eeb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 #EXTINF:-1 tvg-id="5d767857f65029ce2385b217" tvg-chno="302" tvg-logo="https://images.pluto.tv/channels/5d767857f65029ce2385b217/colorLogoPNG.png" group-title="Entertainment",Inside
