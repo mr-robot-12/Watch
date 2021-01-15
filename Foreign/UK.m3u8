@@ -1,7 +1,13 @@
 #EXTM3U url-tvg="https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz"
 
-#EXTINF:0 tvg-id="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/2880px-5USA_logo.svg.png" group-title="Entertainment",5USA HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="5STAR+1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/5Star_%2B1.svg/revision/latest/scale-to-width-down/846?cb=20200125200444" group-title="Entertainment",5STAR +1
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/165908?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="5.USA.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/2880px-5USA_logo.svg.png" group-title="Entertainment",5USA HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11041?checkedby:hlscat.com
+#EXTINF:0 tvg-id="5USA+1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/5USA_%2B1.svg/revision/latest/scale-to-width-down/1000?cb=20190430121409" group-title="Entertainment",5USA +1
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/165903?checkedby:hlscat.com
 #EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Entertainment",A&E,US | A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:hlscat.com
 
@@ -10,8 +16,38 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 #EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Animal Planet (UK)
 http://a1.gokakka.club:8880/testzyx030/123456789/2952?checkedby:hlscat.com
 
+#EXTINF:0 tvg-id="BBC.Two.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/BBC_Two.svg/revision/latest/scale-to-width-down/693?cb=20200816045342" group-title="Entertainment",BBC 2
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11074?checkedby:hlscat.com
+#EXTINF:0 tvg-id="BBC.Two.Wales.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/BBC_Two.svg/revision/latest/scale-to-width-down/693?cb=20200816045342" group-title="Entertainment",BBC 2 (Wales)
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/65550?checkedby:hlscat.com
 
 
+#EXTINF:0 tvg-id="BBC.Four.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BBC_Four.svg/revision/latest/scale-to-width-down/693?cb=20171130190003" group-title="Entertainment",BBC 4
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/732?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="BBC.NEWS.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png" group-title="News",BBC News
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11081?checkedby:hlscat.com
+#EXTINF:0 tvg-id="BBC.NEWS.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png" group-title="News",BBC News
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/168363.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-id="BBC.NEWS.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png" group-title="News",BBC News
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10927?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="Bloomberg.HD.uk" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",Bloomberg TV
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10926?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="Boomerang.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="News",Boomerang
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10963?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/BT_Sport_1_HD_%28pre-launch%29.svg/revision/latest/scale-to-width-down/1000?cb=20180511095825" group-title="News",BT Sport 1 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11173?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="BT.Sport.1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/BT_Sport_1.svg/revision/latest/scale-to-width-down/1000?cb=20191227182550" group-title="News",BT Sport 1 SD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11172?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="BT.Sport.2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1600px-BT_Sport_logo_2019.svg.png" group-title="News",BT Sport 2
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/382159.ts?checkedby:hlscat.com
+
+
+#EXTINF:0 tvg-id="CBS.Drama.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/CBS_Drama_2017.svg/revision/latest/scale-to-width-down/400?cb=20191004162901" group-title="Entertainment",CBS Drama
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11051?checkedby:hlscat.com
 #EXTINF:0 tvg-id="CBS.Justice.uk" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1459.1566661342.png" group-title="Entertainment",CBS Justice (UK)
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6636?checkedby:hlscat.com
 #EXTINF:0 tvg-id="CBS.Reality.uk" tvg-logo="https://www.pngfind.com/pngs/m/11-113527_the-above-logo-design-and-the-artwork-you.png" group-title="Entertainment",CBS Reality (UK)
@@ -22,8 +58,26 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6634?checkedby:hlscat.com
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
 
 
+#EXTINF:0 tvg-id="Discovery.HD.uk" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="Documentaries",Discovery
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10996?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="Disc.Science.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries",Discovery Science
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10993?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="Disc.Turbo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentaries",Discovery Turbo
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/383130.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1215px-E4_%28channel%29_logo.svg.png" group-title="News",E4
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/21088.ts?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EuroNews_400x400.png?raw=true" group-title="News",Euronews | HD
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+
+
+#EXTINF:0 tvg-id="History.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Documentaries",History
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10984?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="History2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentaries",H2
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10982?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Crime",Investigation Discovery (UK)
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
