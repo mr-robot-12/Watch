@@ -112,7 +112,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://crackle-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="Crime.and.Investigation.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation HD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4879?checkedby:hlscat.com
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/60013?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Documentaries",Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 
@@ -139,9 +139,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="Science.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries",Discovery Science FHD US
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4887?checkedby:hlscat.com
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58074?checkedby:hlscat.com
+#EXTINF:0 tvg-id="Science.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries",Discovery Science SP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770?checkedby:hlscat.com
 #EXTINF:0 tvg-id="Science.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries",Discovery Science
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/142644.ts?checkedby:hlscat.com
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58074?checkedby:hlscat.com
 #EXTINF:0 tvg-id="Discovery.Family.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/2880px-Discovery_Family_logo.svg.png" group-title="Documentaries",Discovery Family
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
 #EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Documentaries",Discovery Life

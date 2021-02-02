@@ -4,6 +4,9 @@ USTV #1: https://github.com/epgshare01/share01/raw/master/epg_ripper_US1.xml.gz 
 
 USTV #2: https://github.com/epgshare01/share01/raw/master/epg_ripper_US_LOCALS1.xml.gz  <--
 
+UK #1: https://github.com/epgshare01/share01/blob/master/epg_ripper_UK1.xml.gz
+UK: http://www.xmltv.co.uk/feed/6743
+
 PLUTO (WEBGRAB): https://raw.githubusercontent.com/SilentButeo2/webgrabplus-siteinipack/master/siteini.pack/Networks/pluto.tv.E.channels.xml
 
 pluto (WEBGRAB) rep: https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Networks/pluto.tv.E.channels.xml
@@ -13,3 +16,5 @@ pluto (all playlist): https://i.mjh.nz/PlutoTV/all.xml.gz    <--
 plutotv: https://techzyon.com/epg/plutotv_guide.xml
 
 Free2View: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml
+
+

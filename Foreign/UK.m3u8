@@ -4,6 +4,8 @@
 http://a1.gokakka.club:8880/testzyx030/123456789/2932?checkedby:hlscat.com
 #EXTINF:0 tvg-id="4seven.uk" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1515.1539640588.png" group-title="Entertainment",4Seven
 http://a1.gokakka.club:8880/testzyx030/123456789/2955?checkedby:hlscat.com
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1920px-More4_logo_2018.svg.png" group-title="Documentaries",4More
+http://a1.gokakka.club:8880/testzyx030/123456789/2898?checkedby:hlscat.com
 #EXTINF:0 tvg-id="Channel.5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/200px-Channel_5_%28UK%29_2016.svg.png" group-title="Entertainment",5 HD
 http://a1.gokakka.club:8880/testzyx030/123456789/2931?checkedby:hlscat.com
 
@@ -47,7 +49,7 @@ http://pascaltv.site:8080/magicoiptv/1ed63025640d/65550?checkedby:hlscat.com
 #EXTINF:0 tvg-id="BBC.Four.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BBC_Four.svg/revision/latest/scale-to-width-down/693?cb=20171130190003" group-title="Entertainment",BBC 4
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/732?checkedby:hlscat.com
 #EXTINF:0 tvg-id="BBC.Four.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BBC_Four.svg/revision/latest/scale-to-width-down/693?cb=20171130190003" group-title="Entertainment",BBC 4
-http://a1.gokakka.club:8880/testzyx030/123456789/2938?checkedby:hlscat.com
+
 
 #EXTINF:0 tvg-id="BBC.NEWS.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/200px-BBC_News.svg.png" group-title="News",BBC News
 http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11081?checkedby:hlscat.com
@@ -69,6 +71,8 @@ http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11172?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="BT.Sport.2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1600px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport 2
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/382159.ts?checkedby:hlscat.com
 
+#EXTINF:0 tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Cartoons",Cartoon Network
+http://a1.gokakka.club:8880/testzyx030/123456789/2938?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="CBS.Drama.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/CBS_Drama_2017.svg/revision/latest/scale-to-width-down/400?cb=20191004162901" group-title="Entertainment",CBS Drama
 http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/11051?checkedby:hlscat.com
@@ -91,16 +95,16 @@ http://a1.gokakka.club:8880/testzyx030/123456789/2939?checkedby:hlscat.com
 #EXTINF:0 tvg-id="ComedyCentral.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1600px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central
 http://a1.gokakka.club:8880/testzyx030/123456789/2928?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="Crime+Inv.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="Crime+Inv.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation 
 http://a1.gokakka.club:8880/testzyx030/123456789/2927?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="Crime+Inv.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation 
+http://a1.gokakka.club:8880/testzyx030/123456789/2907?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="Dave.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dave.svg/1000px-Dave.svg.png" group-title="Documentaries",Dave
 http://a1.gokakka.club:8880/testzyx030/123456789/2926?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="Discovery.HD.uk" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="Documentaries",Discovery
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10996?checkedby:hlscat.com
 
 
 
@@ -110,8 +114,7 @@ http://a1.gokakka.club:8880/testzyx030/123456789/2925?checkedby:hlscat.com
 #EXTINF:0 tvg-id="Disc.History.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1000px-Discovery_History_logo.svg.png" group-title="Documentaries",Discovery History
 http://a1.gokakka.club:8880/testzyx030/123456789/2908?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="Disc.Science.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries",Discovery Science
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10993?checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="Disc.Science.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries",Discovery Science
 http://a1.gokakka.club:8880/testzyx030/123456789/2924?checkedby:hlscat.com
 
@@ -122,8 +125,7 @@ http://yourdnshere.xyz:83/live/trevorparker/8177168823/383130.ts?checkedby:hlsca
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Cartoons",Disney Channel
 http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10973?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1215px-E4_%28channel%29_logo.svg.png" group-title="Entertainment",E4
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/21088.ts?checkedby:hlscat.com
+
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1215px-E4_%28channel%29_logo.svg.png" group-title="Entertainment",E4
 http://a1.gokakka.club:8880/testzyx030/123456789/2918?checkedby:hlscat.com
 
@@ -154,8 +156,7 @@ http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10984?checkedby:hlscat.com
 #EXTINF:0 tvg-id="History2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentaries",H2
 http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/10982?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Documentaries",Investigation Discovery (UK)
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6627?checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Documentaries",Investigation Discovery
 http://a1.gokakka.club:8880/testzyx030/123456789/2907?checkedby:hlscat.com
 
@@ -174,6 +175,12 @@ http://a1.gokakka.club:8880/testzyx030/123456789/2903?checkedby:hlscat.com
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1600px-Logo_Lifetime_2020.svg.png" group-title="Entertainment",Life Time
 http://a1.gokakka.club:8880/testzyx030/123456789/2900?checkedby:hlscat.com
 
+#EXTINF:-1 group-title="Documentaries" tvg-id="National.Geographic.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/600px-National_Geographic_Channel.svg.png",National Geographic 
+http://a1.gokakka.club:8880/testzyx030/123456789/2893?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="Sports",Racing TV
+http://a1.gokakka.club:8880/testzyx030/123456789/2871
+
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/RTE_ONE_HD.svg/2880px-RTE_ONE_HD.svg.png" group-title="",RTE ONE
 http://a1.gokakka.club:8880/testzyx030/123456789/2901?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RT%C3%892.svg/revision/latest/scale-to-width-down/1000?cb=20140911191147" group-title="",RTE 2
@@ -186,13 +193,18 @@ http://a1.gokakka.club:8880/testzyx030/123456789/2930?checkedby:hlscat.com
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Sky_Sports_News_Logo_2017.png" group-title="Sports",Sky Sports News
 http://a1.gokakka.club:8880/testzyx030/123456789/2870?checkedby:hlscat.com
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/1024px-Sky_Sport_Arena_-_Logo_2018.svg.png" group-title="Documentaries",Sky Sports | Arena
+http://a1.gokakka.club:8880/testzyx030/123456789/2902?checkedby:hlscat.com
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky-sports-main-f1.jpg" group-title="Sports",Sky Sports | F1
 http://a1.gokakka.club:8880/testzyx030/123456789/2876?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1024px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sports",Sky Sports | Football
+http://a1.gokakka.club:8880/testzyx030/123456789/2870
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1024px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="Sports",Sky Sports | Golf
 http://a1.gokakka.club:8880/testzyx030/123456789/2878?checkedby:hlscat.com
 #EXTINF:0 tvg-id="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1134.1507600280.png" group-title="Sports",Sky Sports | Cricket
 http://a1.gokakka.club:8880/testzyx030/123456789/2879?checkedby:hlscat.com
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sports",Sky Sports | Documentaries ?
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sports",Sky Sports | NFL
 http://a1.gokakka.club:8880/testzyx030/123456789/2880?checkedby:hlscat.com
 #EXTINF:0 tvg-id="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1086.1507600158.png" group-title="Sports",Sky Sports | Main Event
 http://a1.gokakka.club:8880/testzyx030/123456789/2881?checkedby:hlscat.com
@@ -210,400 +222,430 @@ http://a1.gokakka.club:8880/testzyx030/123456789/2948?checkedby:hlscat.com
 
 
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",860
-http://a1.gokakka.club:8880/testzyx030/123456789/2862?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",861
-http://a1.gokakka.club:8880/testzyx030/123456789/2863?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",862
-http://a1.gokakka.club:8880/testzyx030/123456789/2864?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",863
-http://a1.gokakka.club:8880/testzyx030/123456789/2865?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",864
-http://a1.gokakka.club:8880/testzyx030/123456789/2866?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",865
-http://a1.gokakka.club:8880/testzyx030/123456789/2867?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",866
-http://a1.gokakka.club:8880/testzyx030/123456789/2868?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Sky_Sports_News_Logo_2017.png" group-title="Sports",Sky Sports News
-http://a1.gokakka.club:8880/testzyx030/123456789/2870?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",869
-http://a1.gokakka.club:8880/testzyx030/123456789/2871?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",870
-http://a1.gokakka.club:8880/testzyx030/123456789/2872?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",871
-http://a1.gokakka.club:8880/testzyx030/123456789/2873?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",872
-http://a1.gokakka.club:8880/testzyx030/123456789/2874?checkedby:hlscat.com
-
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",880 smthng
-http://a1.gokakka.club:8880/testzyx030/123456789/2883?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",881 smthng
-http://a1.gokakka.club:8880/testzyx030/123456789/2884?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",882
-http://a1.gokakka.club:8880/testzyx030/123456789/2885?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Sky News
-http://a1.gokakka.club:8880/testzyx030/123456789/2886?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",884 smthng
-http://a1.gokakka.club:8880/testzyx030/123456789/2887?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",885
-http://a1.gokakka.club:8880/testzyx030/123456789/2888?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",886 smthng
-http://a1.gokakka.club:8880/testzyx030/123456789/2889?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",887
-http://a1.gokakka.club:8880/testzyx030/123456789/2890?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",888 smthng
-http://a1.gokakka.club:8880/testzyx030/123456789/2891?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",889
-http://a1.gokakka.club:8880/testzyx030/123456789/2892?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",890 smth
-http://a1.gokakka.club:8880/testzyx030/123456789/2893?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",891 VH1
-http://a1.gokakka.club:8880/testzyx030/123456789/2894?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sports",892 MUTV
-http://a1.gokakka.club:8880/testzyx030/123456789/2895?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",893 MTV Hits
-http://a1.gokakka.club:8880/testzyx030/123456789/2896?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",894 MTV Base
-http://a1.gokakka.club:8880/testzyx030/123456789/2897?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",895
-http://a1.gokakka.club:8880/testzyx030/123456789/2898?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",896
-http://a1.gokakka.club:8880/testzyx030/123456789/2899?checkedby:hlscat.com
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",1698 sm sports
+http://a1.gokakka.club:8880/testzyx030/123456789/1698
 
-2900
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FOX Sports 2
+http://a1.gokakka.club:8880/testzyx030/123456789/1709
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Sky Sports | Arena
-http://a1.gokakka.club:8880/testzyx030/123456789/2902?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FOX Sports
+http://a1.gokakka.club:8880/testzyx030/123456789/1710
 
 
 
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",MSNBC
-http://a1.gokakka.club:8880/testzyx030/123456789/2910?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",11
-http://a1.gokakka.club:8880/testzyx030/123456789/2911?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",12 German
-http://a1.gokakka.club:8880/testzyx030/123456789/2912?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2860
+http://a1.gokakka.club:8880/testzyx030/123456789/2860
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",15 smthng cartoon
-http://a1.gokakka.club:8880/testzyx030/123456789/2915?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2861
+http://a1.gokakka.club:8880/testzyx030/123456789/2861
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2862
+http://a1.gokakka.club:8880/testzyx030/123456789/2862
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",E!
-http://a1.gokakka.club:8880/testzyx030/123456789/2919?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",20 smthng good
-http://a1.gokakka.club:8880/testzyx030/123456789/2920?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Pop MAX
-http://a1.gokakka.club:8880/testzyx030/123456789/2921?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",22 cartoons
-http://a1.gokakka.club:8880/testzyx030/123456789/2922?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Disney Channel
-http://a1.gokakka.club:8880/testzyx030/123456789/2923?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2863
+http://a1.gokakka.club:8880/testzyx030/123456789/2863
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2864
+http://a1.gokakka.club:8880/testzyx030/123456789/2864
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2865
+http://a1.gokakka.club:8880/testzyx030/123456789/2865
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2866
+http://a1.gokakka.club:8880/testzyx030/123456789/2866
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2867
+http://a1.gokakka.club:8880/testzyx030/123456789/2867
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2868
+http://a1.gokakka.club:8880/testzyx030/123456789/2868
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2869
+http://a1.gokakka.club:8880/testzyx030/123456789/2869
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1024px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Sports",Sky Sports | Football
+http://a1.gokakka.club:8880/testzyx030/123456789/2870
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.catterickbridge.co.uk/portals/0/Graphics/Racing/RacingUK/v01_Racing-TV-Logo-RTV-Blue_RGB_NOBG-min.png" group-title="Sports",Racing TV
+http://a1.gokakka.club:8880/testzyx030/123456789/2871
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",36
-http://a1.gokakka.club:8880/testzyx030/123456789/2936?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Cartoonito
-http://a1.gokakka.club:8880/testzyx030/123456789/2937?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2872 sm sports ?
+http://a1.gokakka.club:8880/testzyx030/123456789/2872
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2873 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2873
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",BT Sport
-http://a1.gokakka.club:8880/testzyx030/123456789/2940?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",BT Sport 3
-http://a1.gokakka.club:8880/testzyx030/123456789/2941?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",BT Sport 2
-http://a1.gokakka.club:8880/testzyx030/123456789/2942?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",BT Sport 1 LIVE
-http://a1.gokakka.club:8880/testzyx030/123456789/2943?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Boomerang Wales?
-http://a1.gokakka.club:8880/testzyx030/123456789/2944?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",45
-http://a1.gokakka.club:8880/testzyx030/123456789/2945?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",BBC news
-http://a1.gokakka.club:8880/testzyx030/123456789/2946?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",BBC four
-http://a1.gokakka.club:8880/testzyx030/123456789/2947?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2874 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2874
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sky Sports HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2877
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",51 baby tv
-http://a1.gokakka.club:8880/testzyx030/123456789/2951?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",52
-http://a1.gokakka.club:8880/testzyx030/123456789/2952?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2878
+http://a1.gokakka.club:8880/testzyx030/123456789/2878
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2879
+http://a1.gokakka.club:8880/testzyx030/123456789/2879
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NFL Network
+http://a1.gokakka.club:8880/testzyx030/123456789/2880
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2881
+http://a1.gokakka.club:8880/testzyx030/123456789/2881
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2882
+http://a1.gokakka.club:8880/testzyx030/123456789/2882
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2883 sm cartoons
+http://a1.gokakka.club:8880/testzyx030/123456789/2883
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2884 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2884
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2885 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2885
 
-952
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Sky news
+http://a1.gokakka.club:8880/testzyx030/123456789/2886
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",952
-http://a1.gokakka.club:8880/testzyx030/123456789/2952?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",5USA
-http://a1.gokakka.club:8880/testzyx030/123456789/2953?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",954 smthg
-http://a1.gokakka.club:8880/testzyx030/123456789/2954?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2888 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2888
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2889
+http://a1.gokakka.club:8880/testzyx030/123456789/2889
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2890 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2890
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",991
-http://a1.gokakka.club:8880/testzyx030/123456789/2992?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",992
-http://a1.gokakka.club:8880/testzyx030/123456789/2993?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",993
-http://a1.gokakka.club:8880/testzyx030/123456789/2994?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",994
-http://a1.gokakka.club:8880/testzyx030/123456789/2995?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",995
-http://a1.gokakka.club:8880/testzyx030/123456789/2996?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",996
-http://a1.gokakka.club:8880/testzyx030/123456789/2997?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2891 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2891
 
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",997
-http://a1.gokakka.club:8880/testzyx030/123456789/2998?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",998
-http://a1.gokakka.club:8880/testzyx030/123456789/2999?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",999
-http://a1.gokakka.club:8880/testzyx030/123456789/3000?checkedby:hlscat.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",800
-http://a1.gokakka.club:8880/testzyx030/123456789/2800?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",801
-http://a1.gokakka.club:8880/testzyx030/123456789/2801?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",802
-http://a1.gokakka.club:8880/testzyx030/123456789/2802?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",803
-http://a1.gokakka.club:8880/testzyx030/123456789/2803?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",804
-http://a1.gokakka.club:8880/testzyx030/123456789/2804?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",805
-http://a1.gokakka.club:8880/testzyx030/123456789/2805?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",806
-http://a1.gokakka.club:8880/testzyx030/123456789/2806?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",807
-http://a1.gokakka.club:8880/testzyx030/123456789/2807?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",808
-http://a1.gokakka.club:8880/testzyx030/123456789/2808?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",809
-http://a1.gokakka.club:8880/testzyx030/123456789/2809?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",810
-http://a1.gokakka.club:8880/testzyx030/123456789/2810?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",811
-http://a1.gokakka.club:8880/testzyx030/123456789/2811?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",812
-http://a1.gokakka.club:8880/testzyx030/123456789/2812?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",813
-http://a1.gokakka.club:8880/testzyx030/123456789/2813?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",814
-http://a1.gokakka.club:8880/testzyx030/123456789/2814?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",815
-http://a1.gokakka.club:8880/testzyx030/123456789/2815?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",816
-http://a1.gokakka.club:8880/testzyx030/123456789/2816?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",817
-http://a1.gokakka.club:8880/testzyx030/123456789/2817?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",818
-http://a1.gokakka.club:8880/testzyx030/123456789/2818?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",819
-http://a1.gokakka.club:8880/testzyx030/123456789/2819?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",820
-http://a1.gokakka.club:8880/testzyx030/123456789/2820?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",821
-http://a1.gokakka.club:8880/testzyx030/123456789/2821?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",822
-http://a1.gokakka.club:8880/testzyx030/123456789/2822?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",823
-http://a1.gokakka.club:8880/testzyx030/123456789/2823?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",824
-http://a1.gokakka.club:8880/testzyx030/123456789/2824?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",825
-http://a1.gokakka.club:8880/testzyx030/123456789/2825?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",826
-http://a1.gokakka.club:8880/testzyx030/123456789/2826?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",827
-http://a1.gokakka.club:8880/testzyx030/123456789/2827?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",827
-http://a1.gokakka.club:8880/testzyx030/123456789/2828?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",828
-http://a1.gokakka.club:8880/testzyx030/123456789/2829?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",829
-http://a1.gokakka.club:8880/testzyx030/123456789/2830?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",830
-http://a1.gokakka.club:8880/testzyx030/123456789/2831?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",831
-http://a1.gokakka.club:8880/testzyx030/123456789/2832?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",832
-http://a1.gokakka.club:8880/testzyx030/123456789/2833?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",833
-http://a1.gokakka.club:8880/testzyx030/123456789/2834?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",834
-http://a1.gokakka.club:8880/testzyx030/123456789/2835?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",835
-http://a1.gokakka.club:8880/testzyx030/123456789/2836?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",836
-http://a1.gokakka.club:8880/testzyx030/123456789/2837?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",837
-http://a1.gokakka.club:8880/testzyx030/123456789/2838?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",838
-http://a1.gokakka.club:8880/testzyx030/123456789/2839?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",839
-http://a1.gokakka.club:8880/testzyx030/123456789/2840?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",840
-http://a1.gokakka.club:8880/testzyx030/123456789/2841?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",841
-http://a1.gokakka.club:8880/testzyx030/123456789/2842?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",842
-http://a1.gokakka.club:8880/testzyx030/123456789/2843?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",843
-http://a1.gokakka.club:8880/testzyx030/123456789/2844?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",843
-http://a1.gokakka.club:8880/testzyx030/123456789/2845?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",844
-http://a1.gokakka.club:8880/testzyx030/123456789/2846?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",845
-http://a1.gokakka.club:8880/testzyx030/123456789/2847?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",846
-http://a1.gokakka.club:8880/testzyx030/123456789/2848?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",847
-http://a1.gokakka.club:8880/testzyx030/123456789/2849?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",848
-http://a1.gokakka.club:8880/testzyx030/123456789/2850?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",849
-http://a1.gokakka.club:8880/testzyx030/123456789/2851?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",850
-http://a1.gokakka.club:8880/testzyx030/123456789/2852?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",851
-http://a1.gokakka.club:8880/testzyx030/123456789/2853?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",852
-http://a1.gokakka.club:8880/testzyx030/123456789/2854?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",853
-http://a1.gokakka.club:8880/testzyx030/123456789/2855?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",854
-http://a1.gokakka.club:8880/testzyx030/123456789/2856?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",855
-http://a1.gokakka.club:8880/testzyx030/123456789/2857?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",856
-http://a1.gokakka.club:8880/testzyx030/123456789/2858?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",857
-http://a1.gokakka.club:8880/testzyx030/123456789/2859?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",858
-http://a1.gokakka.club:8880/testzyx030/123456789/2860?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",859
-http://a1.gokakka.club:8880/testzyx030/123456789/2861?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",860
-http://a1.gokakka.club:8880/testzyx030/123456789/2862?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",861
-http://a1.gokakka.club:8880/testzyx030/123456789/2863?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",862
-http://a1.gokakka.club:8880/testzyx030/123456789/2864?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",863
-http://a1.gokakka.club:8880/testzyx030/123456789/2865?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",864
-http://a1.gokakka.club:8880/testzyx030/123456789/2866?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",865
-http://a1.gokakka.club:8880/testzyx030/123456789/2867?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",866
-http://a1.gokakka.club:8880/testzyx030/123456789/2868?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",867
-http://a1.gokakka.club:8880/testzyx030/123456789/2869?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",868
-http://a1.gokakka.club:8880/testzyx030/123456789/2870?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",869
-http://a1.gokakka.club:8880/testzyx030/123456789/2871?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",870
-http://a1.gokakka.club:8880/testzyx030/123456789/2872?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",871
-http://a1.gokakka.club:8880/testzyx030/123456789/2873?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",872
-http://a1.gokakka.club:8880/testzyx030/123456789/2874?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",873
-http://a1.gokakka.club:8880/testzyx030/123456789/2875?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",874
-http://a1.gokakka.club:8880/testzyx030/123456789/2876?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",875
-http://a1.gokakka.club:8880/testzyx030/123456789/2878?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",876
-http://a1.gokakka.club:8880/testzyx030/123456789/2879?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",877
-http://a1.gokakka.club:8880/testzyx030/123456789/2880?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",878
-http://a1.gokakka.club:8880/testzyx030/123456789/2881?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",879
-http://a1.gokakka.club:8880/testzyx030/123456789/2882?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",880
-http://a1.gokakka.club:8880/testzyx030/123456789/2883?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",881
-http://a1.gokakka.club:8880/testzyx030/123456789/2884?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",882
-http://a1.gokakka.club:8880/testzyx030/123456789/2885?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",883
-http://a1.gokakka.club:8880/testzyx030/123456789/2886?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",884
-http://a1.gokakka.club:8880/testzyx030/123456789/2887?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",885
-http://a1.gokakka.club:8880/testzyx030/123456789/2888?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",886
-http://a1.gokakka.club:8880/testzyx030/123456789/2889?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",887
-http://a1.gokakka.club:8880/testzyx030/123456789/2890?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",888
-http://a1.gokakka.club:8880/testzyx030/123456789/2891?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",889
-http://a1.gokakka.club:8880/testzyx030/123456789/2892?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",890
-http://a1.gokakka.club:8880/testzyx030/123456789/2893?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",891
-http://a1.gokakka.club:8880/testzyx030/123456789/2894?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",892
-http://a1.gokakka.club:8880/testzyx030/123456789/2895?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",893
-http://a1.gokakka.club:8880/testzyx030/123456789/2896?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",894
-http://a1.gokakka.club:8880/testzyx030/123456789/2897?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",895
-http://a1.gokakka.club:8880/testzyx030/123456789/2898?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Animal.Planet.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",896
-http://a1.gokakka.club:8880/testzyx030/123456789/2899?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2892 itv
+http://a1.gokakka.club:8880/testzyx030/123456789/2892
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2893 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2893
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2894
+http://a1.gokakka.club:8880/testzyx030/123456789/2894
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2895 smthng sports?
+http://a1.gokakka.club:8880/testzyx030/123456789/2895
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2897
+http://a1.gokakka.club:8880/testzyx030/123456789/2897
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2900
+http://a1.gokakka.club:8880/testzyx030/123456789/2900
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2901 smthng 
+http://a1.gokakka.club:8880/testzyx030/123456789/2901
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2902 sky sports arena
+http://a1.gokakka.club:8880/testzyx030/123456789/2902
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2903
+http://a1.gokakka.club:8880/testzyx030/123456789/2903
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2904 itv3
+http://a1.gokakka.club:8880/testzyx030/123456789/2904
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2905 itv2
+http://a1.gokakka.club:8880/testzyx030/123456789/2905
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2906 itv
+http://a1.gokakka.club:8880/testzyx030/123456789/2906
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2907 Crime Investigation
+http://a1.gokakka.club:8880/testzyx030/123456789/2907
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2908 smthg docu
+http://a1.gokakka.club:8880/testzyx030/123456789/2908
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2909 Food Network
+http://a1.gokakka.club:8880/testzyx030/123456789/2909
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2910 MSNBC
+http://a1.gokakka.club:8880/testzyx030/123456789/2910
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2911
+http://a1.gokakka.club:8880/testzyx030/123456789/2911
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2913 FOX
+http://a1.gokakka.club:8880/testzyx030/123456789/2913
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2914 Food Network
+http://a1.gokakka.club:8880/testzyx030/123456789/2914
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2915
+http://a1.gokakka.club:8880/testzyx030/123456789/2915
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2916 Eurosport 2
+http://a1.gokakka.club:8880/testzyx030/123456789/2916
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2917 Eurosport 1
+http://a1.gokakka.club:8880/testzyx030/123456789/2917
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2918 E4 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2918
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2919 E!
+http://a1.gokakka.club:8880/testzyx030/123456789/2919
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2920 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2920
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2921 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2921
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2922 Disney Junior
+http://a1.gokakka.club:8880/testzyx030/123456789/2922
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2923 Disney Channel
+http://a1.gokakka.club:8880/testzyx030/123456789/2923
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2924 Discovery Science
+http://a1.gokakka.club:8880/testzyx030/123456789/2924
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2925 Discovery
+http://a1.gokakka.club:8880/testzyx030/123456789/2925
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2926 Dave
+http://a1.gokakka.club:8880/testzyx030/123456789/2926
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2927
+http://a1.gokakka.club:8880/testzyx030/123456789/2927
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2928 ComedyCentral
+http://a1.gokakka.club:8880/testzyx030/123456789/2928
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2929
+http://a1.gokakka.club:8880/testzyx030/123456789/2929
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2930 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2930
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2931 5 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2931
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2932 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2932
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2933
+http://a1.gokakka.club:8880/testzyx030/123456789/2933
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2934
+http://a1.gokakka.club:8880/testzyx030/123456789/2934
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2935 CBS Justice
+http://a1.gokakka.club:8880/testzyx030/123456789/2935
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2936
+http://a1.gokakka.club:8880/testzyx030/123456789/2936
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2937 Cartoonito
+http://a1.gokakka.club:8880/testzyx030/123456789/2937
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2938 Cartoon Network
+http://a1.gokakka.club:8880/testzyx030/123456789/2938
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2939 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2939
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2940 BT Sport
+http://a1.gokakka.club:8880/testzyx030/123456789/2940
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2941 BT Sport 3 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2941
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2942 BT Sport 2 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2942
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2943 BT Sport 1 HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2943
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2944 Boomerang
+http://a1.gokakka.club:8880/testzyx030/123456789/2944
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2945 BET star
+http://a1.gokakka.club:8880/testzyx030/123456789/2945
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2946
+http://a1.gokakka.club:8880/testzyx030/123456789/2946
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2947
+http://a1.gokakka.club:8880/testzyx030/123456789/2947
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2948 TCM Movies
+http://a1.gokakka.club:8880/testzyx030/123456789/2948
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2949 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/2949
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2950 BBC
+http://a1.gokakka.club:8880/testzyx030/123456789/2950
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2952 Animal Planet
+http://a1.gokakka.club:8880/testzyx030/123456789/2952
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2953 5Star
+http://a1.gokakka.club:8880/testzyx030/123456789/2953
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2954 5Star
+http://a1.gokakka.club:8880/testzyx030/123456789/2954
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2955 4seven
+http://a1.gokakka.club:8880/testzyx030/123456789/2955
+
+
+STOP HERE
+
+CANADA ?
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2987
+http://a1.gokakka.club:8880/testzyx030/123456789/2987
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2988
+http://a1.gokakka.club:8880/testzyx030/123456789/2988
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2989
+http://a1.gokakka.club:8880/testzyx030/123456789/2989
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2990
+http://a1.gokakka.club:8880/testzyx030/123456789/2990
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2991
+http://a1.gokakka.club:8880/testzyx030/123456789/2991
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2992
+http://a1.gokakka.club:8880/testzyx030/123456789/2992
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2993
+http://a1.gokakka.club:8880/testzyx030/123456789/2993
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2994
+http://a1.gokakka.club:8880/testzyx030/123456789/2994
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2995
+http://a1.gokakka.club:8880/testzyx030/123456789/2995
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2996
+http://a1.gokakka.club:8880/testzyx030/123456789/2996
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2997
+http://a1.gokakka.club:8880/testzyx030/123456789/2997
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2998
+http://a1.gokakka.club:8880/testzyx030/123456789/2998
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",2999
+http://a1.gokakka.club:8880/testzyx030/123456789/2999
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3000 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/3000
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3001
+http://a1.gokakka.club:8880/testzyx030/123456789/3001
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3002 TSN 3
+http://a1.gokakka.club:8880/testzyx030/123456789/3002
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3003
+http://a1.gokakka.club:8880/testzyx030/123456789/3003
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3004 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/3004
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3005 smthng cartoon
+http://a1.gokakka.club:8880/testzyx030/123456789/3005
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3006 TLC
+http://a1.gokakka.club:8880/testzyx030/123456789/3006
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3007 smthng sports
+http://a1.gokakka.club:8880/testzyx030/123456789/3007
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3008 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/3008
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3009 smthng
+http://a1.gokakka.club:8880/testzyx030/123456789/3009
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3010
+http://a1.gokakka.club:8880/testzyx030/123456789/3010
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3011 CTV Sci-Fi
+http://a1.gokakka.club:8880/testzyx030/123456789/3011
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3012
+http://a1.gokakka.club:8880/testzyx030/123456789/3012
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3013
+http://a1.gokakka.club:8880/testzyx030/123456789/3013
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3014
+http://a1.gokakka.club:8880/testzyx030/123456789/3014
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3015
+http://a1.gokakka.club:8880/testzyx030/123456789/3015
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3016
+http://a1.gokakka.club:8880/testzyx030/123456789/3016
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3017
+http://a1.gokakka.club:8880/testzyx030/123456789/3017
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3018
+http://a1.gokakka.club:8880/testzyx030/123456789/3018
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3019
+http://a1.gokakka.club:8880/testzyx030/123456789/3019
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3020
+http://a1.gokakka.club:8880/testzyx030/123456789/3020
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3021
+http://a1.gokakka.club:8880/testzyx030/123456789/3021
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3022
+http://a1.gokakka.club:8880/testzyx030/123456789/3022
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3023
+http://a1.gokakka.club:8880/testzyx030/123456789/3023
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3024
+http://a1.gokakka.club:8880/testzyx030/123456789/3024
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3025
+http://a1.gokakka.club:8880/testzyx030/123456789/3025
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3026
+http://a1.gokakka.club:8880/testzyx030/123456789/3026
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3027
+http://a1.gokakka.club:8880/testzyx030/123456789/3027
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3028
+http://a1.gokakka.club:8880/testzyx030/123456789/3028
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3029
+http://a1.gokakka.club:8880/testzyx030/123456789/3029
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",3030
+http://a1.gokakka.club:8880/testzyx030/123456789/3030
