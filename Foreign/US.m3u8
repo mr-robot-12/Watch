@@ -169,9 +169,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520?checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2880px-ESPN_wordmark.svg.png" group-title="Sports",ESPN 2 HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="",ESPN U
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png" group-title="Sports",ESPN U
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
-#EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/1595px-Espnnews.png" group-title="",ESPN News
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/1595px-Espnnews.png" group-title="Sports",ESPN News
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 
 #EXTINF:0 tvg-id="Food.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entertainment",Food Network
@@ -299,11 +299,11 @@ https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Sports",NBC Sports Boston
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
-#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/03/nbc-sports-california.png" group-title="",NBC Sports California
+#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/03/nbc-sports-california.png" group-title="Sports",NBC Sports California
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
 #EXTINF:-1 tvg-id="NBC.Sports.Chicago.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/NBC_Sports_Chicago.jpg" group-title="Sports",NBC Sports Chicago
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
-#EXTINF:-1 tvg-id="NBC.Sports.Network.west.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/NBC_Sports_Northwest.png" group-title="",NBC Sports Northwest
+#EXTINF:-1 tvg-id="NBC.Sports.Network.west.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/NBC_Sports_Northwest.png" group-title="Sports",NBC Sports Northwest
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
 
 #EXTINF:-1 group-title="Sports" tvg-id="MLB.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1280px-MLBNetworkLogo.svg.png",MLB Network
@@ -337,7 +337,7 @@ https://outsidetvplus-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/OSN_Sports_2.png/revision/latest/scale-to-width-down/800?cb=20111115191644" group-title="Sports",OSN Sports 2 HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
 
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/660px-OWN_2011_logo.svg.png" group-title="",OWN
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/660px-OWN_2011_logo.svg.png" group-title="Entertainment",OWN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627
 
 #EXTINF:0 tvg-id="Oxygen.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="Entertainment",Oxygen
