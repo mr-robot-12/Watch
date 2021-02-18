@@ -2,6 +2,7 @@
 
 #EXTINF:0 tvg-id="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/5USA_logo.svg/2880px-5USA_logo.svg.png" group-title="Entertainment",5USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481?checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="ABC.EAST.Local.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1024px-American_Broadcasting_Company_Logo.svg.png" group-title="Entertainment",ABC
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
 
@@ -25,8 +26,6 @@ https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8?checkedby:
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/105.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-id="American.Heroes.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1600px-American_Heroes_Channel_logo.svg.png" group-title="Entertainment",American Heroes
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/108.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Entertainment",Adult Swim,US | Adult Swim
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="(Eastern)Animal.Planet.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Documentaries",Animal Planet HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730?checkedby:hlscat.com
@@ -40,6 +39,9 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14393?checkedby:hlscat.com
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679?checkedby:hlscat.com
 #EXTINF:0 tvg-id="BBC.America.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/2880px-BBC_America.svg.png" group-title="Entertainment",BBC America
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/142614.ts?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="BET.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/800px-BET_Logo.svg.png" group-title="Entertainment",BET
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/7.m3u8
 
 #EXTINF:-1 tvg-id="beIN.Sport.USA.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Be_in_sports_hd.png/revision/latest/scale-to-width-down/700?cb=20140328172314" group-title="Sports",beIN Sports HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
@@ -60,7 +62,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4883?checkedby:hlscat.com
 #EXTINF:0 tvg-id="Cartoon.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Cartoons",Cartoon Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:hlscat.com
+
 #EXTINF:0 tvg-id="(Eastern)CBS.us" tvg-logo="https://www.clipartmax.com/png/middle/307-3070036_greuner-discusses-fibroids-on-cbs-news-cbs-blue-logo-png.png" group-title="Entertainment",CBS
+http://194.40.241.218:83/directline76598/6522AM0203452020/68
+#EXTINF:0 tvg-id="(Eastern)CBS.us" tvg-logo="https://www.clipartmax.com/png/middle/307-3070036_greuner-discusses-fibroids-on-cbs-news-cbs-blue-logo-png.png" group-title="Entertainment",CBS 4
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-id="(Eastern)CBS.us" tvg-logo="https://www.clipartmax.com/png/middle/307-3070036_greuner-discusses-fibroids-on-cbs-news-cbs-blue-logo-png.png" group-title="Entertainment",CBS #2
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/491
@@ -76,6 +81,23 @@ https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=702&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 #EXTINF:0 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
+
+
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",CineMAX
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/25.m3u8
+
+#EXTINF:-1 tvg-id="MoreMAX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/More_MAX_2016.svg/revision/latest/scale-to-width-down/1000?cb=20200917122617" group-title="Movies",MoreMaxx
+http://194.40.241.218:83/directline76598/6522AM0203452020/120
+#EXTINF:-1 tvg-id="OuterMAX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Outermax.png/revision/latest/scale-to-width-down/240?cb=20161105015715" group-title="Movies",Outermax
+http://194.40.241.218:83/directline76598/6522AM0203452020/90
+#EXTINF:-1 tvg-id="OuterMAX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Outermax.png/revision/latest/scale-to-width-down/240?cb=20161105015715" group-title="Movies",Outermax
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/111.m3u8
+#EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/ThrillerMax_2011.svg/revision/latest/scale-to-width-down/1000?cb=20160721193057" group-title="Movies",Thrillermax
+http://194.40.241.218:83/directline76598/6522AM0203452020/96
+
+
+#EXTINF:-1 tvg-id="CMT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Entertainment",CMT
+http://194.40.241.218:83/directline76598/6522AM0203452020/88
 
 
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1402px-CNBC_logo.svg.png" group-title="Entertainment",CNBC
@@ -109,7 +131,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://crackle-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="Crime.and.Investigation.Network.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Documentaries",Crime & Investigation HD US
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/60013?checkedby:hlscat.com
+http://194.40.241.218:83/directline76598/6522AM0203452020/152
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Documentaries",Crime 360
 https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
 
@@ -160,6 +182,15 @@ https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Eleven.Sports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sports",Eleven Sports
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
 
+
+#EXTINF:-1 tvg-id="Epix.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1600px-Epix_Logo_2019.svg.png" group-title="Movies",EPIX
+http://194.40.241.218:83/directline76598/6522AM0203452020/75
+
+
+#EXTINF:-1 tvg-id="Epix.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1600px-Epix_Logo_2019.svg.png" group-title="Movies",EPIX
+http://194.40.241.218:83/directline76598/6522AM0203452020/107
+#EXTINF:-1 tvg-id="EPIX2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Epix2-new-logo.svg/revision/latest/scale-to-width-down/1000?cb=20190404205847" group-title="Movies",EPIX 2
+http://194.40.241.218:83/directline76598/6522AM0203452020/159
 #EXTINF:-1 tvg-id="EPIX.Hits.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Epix-hits-new-logo.svg/revision/latest/scale-to-width-down/1000?cb=20190404205857" group-title="Movies",Epix Hits
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/519
 
@@ -190,7 +221,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="Fox.College.Sports.Central.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Fox_Sports_College.png" group-title="Sports",FOX College Sports
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
 #EXTINF:0 tvg-id="(Eastern)FX.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" group-title="Entertainment",FX 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708?checkedby:hlscat.com
+http://194.40.241.218:83/directline76598/6522AM0203452020/63
 #EXTINF:0 tvg-id="(Eastern)FXX.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1501px-FXX_Logo.svg.png" group-title="Entertainment",FXX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1600px-FXM_Logo.svg.png" group-title="Movies",FXM
@@ -198,6 +229,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/1599px-Freeform_2018.svg.png" group-title="Entertainment",Freeform
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548?checkedby:hlscat.com
+
+
+#EXTINF:-1 tvg-id="FYI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="Entertainment",FYI
+http://194.40.241.218:83/directline76598/6522AM0203452020/131
+
+
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1352px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/52.m3u8
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png",Gravitas MOVIES
@@ -208,23 +247,34 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="Hallmark.Drama.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" group-title="Movies",Hallmark Drama
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
 
-#EXTINF:0 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/844px-HBO_logo.svg.png" group-title="Entertainment",HBO
+#EXTINF:0 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/844px-HBO_logo.svg.png" group-title="Movies",HBO
 https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="HBO.us" tvg-logo="" group-title="Entertainment",HBO
+#EXTINF:0 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/844px-HBO_logo.svg.png" group-title="Movies",HBO
 http://212.102.60.121:8000/calem7/4BY4CSaMUW/35801?checkedby:hlscat.com
 #EXTINF:0 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/844px-HBO_logo.svg.png" group-title="Movies",HBO
 http://194.40.241.218:83/directline76598/6522AM0203452020/103
-#EXTINF:0 tvg-id="HBO.2.us" tvg-logo="" group-title="Movies",HBO 2 
+#EXTINF:0 tvg-id="HBO.2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movies",HBO 2 
 http://194.40.241.218:83/directline76598/6522AM0203452020/51
-#EXTINF:0 tvg-id="HBO.2.us" tvg-logo="" group-title="Movies",HBO 2 
+#EXTINF:0 tvg-id="HBO.2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movies",HBO 2 
 http://194.40.241.218:83/directline76598/6522AM0203452020/26
 
 #EXTINF:0 tvg-id="HBO.Comedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Movies",HBO Comedy
 http://194.40.241.218:83/directline76598/6522AM0203452020/119
 #EXTINF:0 tvg-id="HBO.Comedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Movies",HBO Comedy
 http://194.40.241.218:83/directline76598/6522AM0203452020/118
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",HBO Family
 http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/110
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",HBO Family
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/109.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59363_dark_360w_270h.png" group-title="Movies",HBO Signature
+http://194.40.241.218:83/directline76598/6522AM0203452020/44
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59363_dark_360w_270h.png" group-title="Movies",HBO Signature
+http://194.40.241.218:83/directline76598/6522AM0203452020/113
+
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s59845_dark_360w_270h.png" group-title="Movies",HBO Zone
+http://194.40.241.218:83/directline76598/6522AM0203452020/82
 
 #EXTINF:-1 tvg-id="HGTV.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1600px-HGTV_logo.png" group-title="Home + DIY",HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
@@ -232,18 +282,33 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-id="History.Channel.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1280px-History_Logo.svg.png" group-title="Documentaries",History Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentaries",H2
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1370?checkedby:hlscat.com
+#EXTINF:0 tvg-id="H2(src01).uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentaries",H2
+http://194.40.241.218:83/directline76598/6522AM0203452020/172
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentaries",H2
-http://iptvtree.net:8080/766a3d10/7781c6505e/6310?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/HLN_%282017%29_%28Print%29.svg/revision/latest/scale-to-width-down/1000?cb=20201128113842" group-title="Documentaries",HLN
+http://194.40.241.218:83/directline76598/6522AM0203452020/170
 
 #EXTINF:0 tvg-id="US" tvg-logo="https://i.imgur.com/0vJGi73.jpg" group-title="Tech",IDG,US | IDG
 https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8?checkedby:hlscat.com
 
 
+#EXTINF:-1 tvg-id="IFC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IFC_2014_logo.svg/1600px-IFC_2014_logo.svg.png" group-title="Entertainment",IFC
+http://194.40.241.218:83/directline76598/6522AM0203452020/186
+
+#EXTINF:-1 tvg-id="INSP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Official_logo_for_INSP.jpeg" group-title="Entertainment",Inspirational Network 
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/35.m3u8
+
 #EXTINF:0 tvg-id="(Eastern)Investigation.Discovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentaries",Investigation Discovery
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/9.m3u8
+
+#EXTINF:0 tvg-id="(Eastern)Investigation.Discovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1079px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentaries",Investigation Discovery
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/21.m3u8
+
+
+#EXTINF:-1 tvg-id="IONTelevision(Pacific).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/1920px-ION_Television_2016.svg.png" group-title="Entertainment",ion Television
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/49.m3u8
+
 
 #EXTINF:0 tvg-id="Justice.Central.us" tvg-logo="https://entertainmentstudios.com/wp-content/uploads/2018/07/jc_sq_2.png" group-title="Documentaries",Justice Central
 http://iptvtree.net:8080/766a3d10/7781c6505e/150732?checkedby:hlscat.com
@@ -259,9 +324,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-id="Lifetime.Movies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1598px-LMN_logo_2016.svg.png" group-title="Movies",Lifetime Movies
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/LMN_logo_2019.svg/2560px-LMN_logo_2019.svg.png" group-title="Entertainment",LMN
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/10.m3u8
 
 #EXTINF:-1 group-title="Documentaries" tvg-id="" tvg-logo="",Magellan TV
 https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/2d9b6d6a-3e58-4d08-ac09-800b44363a2e/3.m3u8
+
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MeTV.svg/660px-MeTV.svg.png" group-title="Entertainment",ME TV
+http://194.40.241.218:83/directline76598/6522AM0203452020/47
 
 #EXTINF:-1 tvg-id="Motor.Trend.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1024px-Motor_Trend_logo.svg.png" group-title="Entertainment",Motor Trend
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
@@ -327,6 +397,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Cartoons",Nick.
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 
+
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://www.logolynx.com/images/logolynx/ed/ede7f1e6851ea5b98620307e6116a715.jpeg" group-title="News",One America News
+http://194.40.241.218:83/live/directline76598/6522AM0203452020/69.m3u8
+
+
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Outdoor_Channel_logo_2007-2017.svg/1000px-Outdoor_Channel_logo_2007-2017.svg.png" group-title="Sports",Outdoor Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/OutsideTVPlus_540x540.png?raw=true" group-title="Sports",Outside TV | HD
@@ -342,6 +417,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
 
 
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d6/6096892A-7380-4BA8-9C26-817124F26764.png/revision/latest/scale-to-width-down/481?cb=20201102221652" group-title="Entertainment",Paramount Network
+http://194.40.241.218:83/directline76598/6522AM0203452020/169
 
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="Entertainment",PBS | WPSU TV | HD
@@ -368,8 +446,30 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group-title="Sci-Fi" tvg-id="Syfy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png",SyFy
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1000px-Showtime.svg.png" group-title="Entertainment",Showtime HD
+#EXTINF:0 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1000px-Showtime.svg.png" group-title="Movies",Showtime HD
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8?checkedby:hlscat.com
+
+
+#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1000px-Showtime.svg.png" group-title="Movies",Showtime
+http://194.40.241.218:83/directline76598/6522AM0203452020/147
+#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1000px-Showtime.svg.png" group-title="Movies",Showtime
+http://194.40.241.218:83/directline76598/6522AM0203452020/114
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Showtime_2_logo.svg/revision/latest/scale-to-width-down/699?cb=20100321161414" group-title="Movies",Showtime 2
+http://194.40.241.218:83/directline76598/6522AM0203452020/137
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/1154px-Showtime_Beyond.svg.png" group-title="Movies",Showtime Beyond
+http://194.40.241.218:83/directline76598/6522AM0203452020/139
+
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Showtime_Extreme_2011.svg/revision/latest/scale-to-width-down/890?cb=20160526225715" group-title="Movies",Showtime Extreme
+http://194.40.241.218:83/directline76598/6522AM0203452020/28
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Showtime_Extreme_2011.svg/revision/latest/scale-to-width-down/890?cb=20160526225715" group-title="Movies",Showtime Extreme
+http://194.40.241.218:83/directline76598/6522AM0203452020/66
+
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1348px-Showtime_Next.svg.png" group-title="Movies",Showtime Next
+http://194.40.241.218:83/directline76598/6522AM0203452020/168
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1272px-Showtime_Showcase.svg.png" group-title="Movies",Showtime Showcase
+http://194.40.241.218:83/directline76598/6522AM0203452020/158
+
+
 #EXTINF:-1 tvg-id="(Eastern)Smithsonian.Channel.(East).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Documentaries",Smithsonian
 http://supersonictv.live:25461/903310/034806/22148?checkedby:hlscat.com
 
@@ -379,11 +479,31 @@ http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1398?checkedby
 #EXTINF:-1 tvg-id="Sportsman.Channel.us" tvg-logo="https://iconape.com/wp-content/files/yp/280104/svg/sportsman-channe-seeklogo.com.svg" group-title="Sports",Sportsman
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
 
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/1597px-Starz_2016.svg.png" group-title="Entertainment",STARZ
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/53.m3u8
+
+
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/600px-Starz_Comedy_logo.svg.png" group-title="Movies",Starz Comedy
+http://194.40.241.218:83/directline76598/6522AM0203452020/122
+
+
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/1600px-Starz_Encore.svg.png" group-title="Movies",Starz Encore
+http://194.40.241.218:83/directline76598/6522AM0203452020/161
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Encore_Classic_horizontal_logo.svg/800px-Encore_Classic_horizontal_logo.svg.png" group-title="Movies",Starz Encore Classic
+http://194.40.241.218:83/directline76598/6522AM0203452020/160
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-logo="https://www.vhv.rs/dpng/d/476-4769776_encore-westerns-starz-encore-westerns-logo-hd-png.png" group-title="Movies",Starz Encore Westerns
+http://194.40.241.218:83/directline76598/6522AM0203452020/22
+
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Encore_Suspense.png" group-title="Movies",Starz Encore Suspense
+http://194.40.241.218:83/directline76598/6522AM0203452020/148
+
+
 #EXTINF:-1 tvg-id="SundanceTV.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1600px-SundanceTV.svg.png" group-title="Movies",Sundance
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
 
 #EXTINF:0 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/2560px-TBS_logo_2016.svg.png" group-title="Entertainment",TBS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758?checkedby:hlscat.com
+http://194.40.241.218:83/directline76598/6522AM0203452020/92
 
 #EXTINF:0 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="Entertainment",TNT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660?checkedby:hlscat.com
@@ -396,11 +516,27 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-id="truTV.USA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/2880px-TruTV_2014.svg.png" group-title="Entertainment",Tru TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
 
+#EXTINF:-1 tvg-id="TVONE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/TVOne_2016.png" group-title="Entertainment",TV ONE
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/47.m3u8
+
 #EXTINF:-1 tvg-id="Universal.Kids.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Kids_new_2019_logo.svg/revision/latest/scale-to-width-down/1000?cb=20190430183948" group-title="Cartoons",Universal Kids
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
 
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1600px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
+http://194.40.241.218:83/directline76598/6522AM0203452020/34
+
+#EXTINF:-1 tvg-id="WEtv.us" tvg-logo="https://www.vhv.rs/dpng/d/36-363278_we-tv-logo-2018-hd-png-download.png" group-title="Entertainment",WEtv
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/36.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",Weather Nation
 https://csm-e-cetubiausw2live101-0a3375999d365443a.csm.tubi.video/csm/live/241500490.m3u8
+
+
+#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-logo="https://wgnamerica.com/wp-content/uploads/2019/04/87c0e3be-1b2e-11e8-97a2-028878e65d97.png" group-title="Entertainment",WGN America
+http://194.40.241.218:83/directline76598/6522AM0203452020/200
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WPT_600x600.png?raw=true" group-title="Sports",WPT | World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PNIA_900x900.png?raw=true" group-title="Sports",Poker Night In America
