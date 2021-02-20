@@ -157,14 +157,14 @@ http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58074?checkedby:hlscat.com
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58074?checkedby:hlscat.com
 #EXTINF:0 tvg-id="Discovery.Family.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/2880px-Discovery_Family_logo.svg.png" group-title="Documentaries",Discovery Family
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
-#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Documentaries",Discovery Life
+#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16125_dark_360w_270h.png" group-title="Documentaries",Discovery Life
 http://mags.vip:2086/live/jav/jav123/14880.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Documentaries",Discovery Life (720)
+#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16125_dark_360w_270h.png" group-title="Documentaries",Discovery Life (720)
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35817?checkedby:hlscat.com
 
-#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Documentaries",Discovery Life UHD
+#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16125_dark_360w_270h.png" group-title="Documentaries",Discovery Life UHD
 http://supersonictv.live:25461/903310/034806/22075?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Documentaries",Discovery Life (720-2)
+#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16125_dark_360w_270h.png" group-title="Documentaries",Discovery Life (720-2)
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/35817?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Disney.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Disney_Channel_Germany_Logo_2014.png/800px-Disney_Channel_Germany_Logo_2014.png" group-title="Entertainment",Disney Channel
