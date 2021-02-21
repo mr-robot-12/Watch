@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml"
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="XXX",Hustler TV
+http://188.35.9.26:2030/udp/047c
+
 #EXTINF:-1,XXX:Hustler HD (18+)
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/380153.ts
 #EXTINF:-1,XXX:Redlight HD (18+)
