@@ -17,8 +17,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/3.m3u8?checkedby:hlscat.com
 #http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483 <-Works
 
-#EXTINF:-1 tvg-id="ActionMax.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/ActionMax_2011.svg/revision/latest/scale-to-width-down/1000?cb=20160721192021" group-title="Entertainment",Actionmax
-http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/29690?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://simultv.com/assets/img/Channels/action%20sports%204u%20white-min.png" group-title="Sports",Action Sports4u
 https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8?checkedby:hlscat.com
@@ -150,6 +148,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-id="Discovery.Channel.(US).us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="Documentaries",Discovery Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125?checkedby:hlscat.com
 
+
 #EXTINF:0 tvg-id="Science.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2880px-Discovery_Science_2017_Logo.svg.png" group-title="Documentaries",Discovery Science FHD US
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/58074?checkedby:hlscat.com
 
@@ -159,8 +158,6 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/58074?checkedby:hlscat.com
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
 #EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16125_dark_360w_270h.png" group-title="Documentaries",Discovery Life
 http://mags.vip:2086/live/jav/jav123/14880.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16125_dark_360w_270h.png" group-title="Documentaries",Discovery Life (720)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/35817?checkedby:hlscat.com
 
 #EXTINF:0 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16125_dark_360w_270h.png" group-title="Documentaries",Discovery Life UHD
 http://supersonictv.live:25461/903310/034806/22075?checkedby:hlscat.com
@@ -176,6 +173,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentaries",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentaries",Dust
+https://dustx-xumous.amagi.tv/hls/amagi_hls_data_gunpowder-dustx-xumo/CDN/1920x1080_5055600/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="News",DW News (DE)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
@@ -244,6 +244,7 @@ http://194.40.241.218:83/directline76598/6522AM0203452020/131
 
 #EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1352px-Game_Show_Network_2018.svg.png" group-title="Entertainment",Game Show Network
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/52.m3u8
+
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png",Gravitas MOVIES

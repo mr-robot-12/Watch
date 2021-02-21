@@ -458,6 +458,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e393d5c696b3b0009
 
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-chno="501" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="Life + Style",Hell's Kitchen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6f38792075160007d85823/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=501&deviceId=5e6f38792075160007d85823&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
+#EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-chno="501" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" group-title="Reality",Hell's Kitchen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6f38792075160007d85823/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=501&deviceId=5e6f38792075160007d85823&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
+
+
 #EXTINF:-1 tvg-id="5e735c6834d7d10007059790" tvg-chno="580" tvg-logo="https://images.pluto.tv/channels/5e735c6834d7d10007059790/colorLogoPNG.png" group-title="Documentaries",Slow TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e735c6834d7d10007059790/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=580&deviceId=5e735c6834d7d10007059790&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.5426&deviceLon=-0.2449&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=GB&serverSideAds=false
 
