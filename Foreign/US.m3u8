@@ -174,9 +174,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentaries",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Documentaries",Dust
-https://dustx-xumous.amagi.tv/hls/amagi_hls_data_gunpowder-dustx-xumo/CDN/1920x1080_5055600/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="News",DW News (DE)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
