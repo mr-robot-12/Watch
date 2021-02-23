@@ -357,7 +357,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/102.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 group-title="Documentaries" tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",Nat Geo Wild
-https://s4.ustvgo.org/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDg6MjM6MzYgUE0maGFzaF92YWx1ZT11akRydXZ4NnRuUHNvNlhOL2ZJU2pnPT0mdmFsaWRtaW51dGVzPTI0MA==|User-Agent=Android
+https://s4.ustvgo.org/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIxIDg6MjM6MzYgUE0maGFzaF92YWx1ZT11akRydXZ4NnRuUHNvNlhOL2ZJU2pnPT0mdmFsaWRtaW51dGVzPTI0MA==|Referer=https://ustvgo.tv
 
 #EXTINF:-1 group-title="Documentaries" tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",Nat Geo Wild #2
 http://194.40.241.218:83/live/directline76598/6522AM0203452020/106.m3u8
