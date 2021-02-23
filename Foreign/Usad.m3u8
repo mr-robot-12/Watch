@@ -1,432 +1,88 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/EPG/F2VTV_MERGE2.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="XXX",Hustler TV
-http://188.35.9.26:2030/udp/047c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Hustler HD
+https://e1.jokingst.xyz/ingest02/66584.m3u8?sf=clBKRUdtU1ppTw==&token=OYFDsyXiYHGWjneX20Ww1w&expires=1614003164&rnd=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Hustler HD
+https://cortino6.mitopo.me/live/hustler/index.m3u8?token=KiQnFA2lDiHjy0of1UMEVA&expires=1614075764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Penthouse Quickies
+http://s11.1tv.to/hls/ME82MVp0T1ZvNFRyUmdyYWpteklsQWV6TC9qM2NrN0p4bkgwVThaNElTWG5tbVZKSmV4UVRIWVhpR0FaVzkreThSdDgrODBoZjlQcGgvZW5Db3QxZ1FESnJ1bkI1ZWJBRW5PdEY0OWVDTVdYd2huZndGRnFiblc3WW1Belpta0N0WDRzdGNoVjU1YlNDSERZSzBLSkZEbzh5d0x1MTQ0eUltUWYyY0VPSG9HTHIxcG1RcmJucFBCSXJTWWhBQ1Brb1JuNGxCci9WMUE3WWc5ZTEyUzdnQUJNZS9PRmhlTUo5djBSbVpwcGVpRlpqSUJkRW1qNFIvaytwcGdVRm5oNmZZTjN6emVyTmU5M1ROQjlBd0l1Q2c9PQ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JhmIPpq.png" group-title="XXX",Reality Kings TV
-http://188.35.9.26:5031/udp/058j
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", BabesTV
+http://s21.1tv.to/hls/VTJmWXdzdHFkYmZ5cUtRMkFnRWhDTWRkajh6VHZqQnd0a2VqZ3VDbDdqcU4zWEY2MUxpazNOTEdzZGNzcWdyc29UdU5MSWNSN0JDVG5aZEFIekNHcFZtdk1uYVZVOXNKcUlUYnI3UWxJVlR2K2FPY2lza0xkdmtoSHUrOXBMR3lPUWk2VFJMcElkaXV4YjhPYmxyNWQ1OXJIbHNlSm9ENE96aU5kbzZueHcvaGM2V3lYMk9OdDJXZGFEenRVT1hHS05rRUJGR281NGpVeVgwN0FDajZUanEyUnNqbUVMV2VrbnBJVCsxdGg0Ri9rU1BZbnNab0ZGL3duNFA3UmYvemIra3RMZXkrMG5VMVVaV0hiNlY4ZFE9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Blue Hustler
+http://s6.1tv.to/hls/T3l5SC9JejZnUjRQUzcvdU5CenR3NSt6STNEbGJJNXZTbm9rdklVVXFBcDZ1M2w5Zk1BT3p0VkZWN214dnNJM2JCOGpHSVorSHllZHUyZVBFWEYxNytUL3g1TDBVM09HRjJ6SVQvMmpsdkkraVNzeUdWbW9sd25lMmJWRHEwODltcVkxRlJVcDBYT3RBTGFWRDFqQ3hYaFBtOFJUT3lTblBzV3M0aDFveDhRa20wOXlYV1lscllMTUxVVmxsRGEvMEFJVndERGlHUml4ajdyVTFxS28zOG8vOXp0aWtiM2EzMC8rcWVDcWF1MEVUY0lkSW1mY3lUNk5CNXdMdWNaMldJbkNFNGdVc3NsbzdZN2N6Y1Y1S1E9PQ.m3u8
 
-#EXTINF:-1,XXX:Hustler HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380153.ts
-#EXTINF:-1,XXX:Redlight HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380154.ts
-#EXTINF:-1,XXX:Prıvate TV HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380155.ts
-#EXTINF:-1,XXX:Dorcel HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380156.ts
-#EXTINF:-1,XXX:Dorcel XXX HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380157.ts
-#EXTINF:-1,XXX:Vivid Red HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380158.ts
-#EXTINF:-1,XXX:Stars XXX HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380159.ts
-#EXTINF:-1,XXX:Erox HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380160.ts
-#EXTINF:-1,XXX:Erox XXX HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380161.ts
-#EXTINF:-1,XXX:Penthouse Gold HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380162.ts
-#EXTINF:-1,XXX:Penthouse Quickies HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380163.ts
-#EXTINF:-1,XXX:Penthouse Passion HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380164.ts
-#EXTINF:-1,XXX:Super One HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380165.ts
-#EXTINF:-1,XXX:Evil Angel HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380166.ts
-#EXTINF:-1,XXX:Dream Porn HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380167.ts
-#EXTINF:-1,XXX:Babes TV HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380168.ts
-#EXTINF:-1,XXX:SEX ATION HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380169.ts
-#EXTINF:-1,XXX:XY Plus HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380170.ts
-#EXTINF:-1,XXX:XY Max HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380171.ts
-#EXTINF:-1,XXX:XY Mix HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380172.ts
-#EXTINF:-1,XXX:Extasy HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380173.ts
-#EXTINF:-1,XXX:Vivid TV Europe (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380174.ts
-#EXTINF:-1,XXX:DUSK! (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380175.ts
-#EXTINF:-1,XXX:Hustler TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380176.ts
-#EXTINF:-1,XXX:XXL (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380177.ts
-#EXTINF:-1,XXX:Passie XXX (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380178.ts
-#EXTINF:-1,XXX:Passion XXX (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380179.ts
-#EXTINF:-1,XXX:Reality Kings TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380180.ts
-#EXTINF:-1,XXX:Pink O TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380181.ts
-#EXTINF:-1,XXX:Prive TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380182.ts
-#EXTINF:-1,XXX:Sext & Senso (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380183.ts
-#EXTINF:-1,XXX:SCT Classic (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380184.ts
-#EXTINF:-1,XXX:Brazzers TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380185.ts
-#EXTINF:-1,XXX:Brazzers TV Europe (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380186.ts
-#EXTINF:-1,XXX:Brazzers TV Europe Russian (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380187.ts
-#EXTINF:-1,XXX:Hot TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380188.ts
-#EXTINF:-1,XXX:Venus TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380189.ts
-#EXTINF:-1,XXX:Sextreme (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380190.ts
-#EXTINF:-1,XXX:Sexy HOT (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380191.ts
-#EXTINF:-1,XXX:Meiden Van Holland Hard (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380192.ts
-#EXTINF:-1,XXX:X1 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380193.ts
-#EXTINF:-1,XXX:X Bizarre (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380194.ts
-#EXTINF:-1,XXX:X Desire (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380195.ts
-#EXTINF:-1,XXX:X Bunga Bunga (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380196.ts
-#EXTINF:-1,XXX:Pink Erotic (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380197.ts
-#EXTINF:-1,XXX:Pink Erotic 2 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380198.ts
-#EXTINF:-1,XXX:Pink Erotic 3 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380199.ts
-#EXTINF:-1,XXX:Pink Erotic 4 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380200.ts
-#EXTINF:-1,XXX:Pink Erotic 5 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380201.ts
-#EXTINF:-1,XXX:Pink Erotic 6 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380202.ts
-#EXTINF:-1,XXX:Pink Erotic 7 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380203.ts
-#EXTINF:-1,XXX:Pink Erotic 8 (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380204.ts
-#EXTINF:-1,XXX:Balkan Erotic (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380205.ts
-#EXTINF:-1,XXX:Taboo (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380206.ts
-#EXTINF:-1,XXX:Oldtimer (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380207.ts
-#EXTINF:-1,XXX:Bangerz (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380208.ts
-#EXTINF:-1,XXX:Net XX (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380209.ts
-#EXTINF:-1,XXX:Playhouse (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380210.ts
-#EXTINF:-1,XXX:Hot Pleasure (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380211.ts
-#EXTINF:-1,XXX:Milf TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380212.ts
-#EXTINF:-1,XXX:Red XXX (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380213.ts
-#EXTINF:-1,XXX:Extrem (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380214.ts
-#EXTINF:-1,XXX:Bang U (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380215.ts
-#EXTINF:-1,XXX:Lesbian Affair (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380216.ts
-#EXTINF:-1,XXX:Emanuelle (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380217.ts
-#EXTINF:-1,XXX:Шалун TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380218.ts
-#EXTINF:-1,XXX:Playboy TV HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380219.ts
-#EXTINF:-1,XXX:Playboy TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380220.ts
-#EXTINF:-1,XXX:Playboy Europe HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380221.ts
-#EXTINF:-1,XXX:Blue Hustler HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380223.ts
-#EXTINF:-1,XXX:Blue Hustler Europe (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380225.ts
-#EXTINF:-1,XXX:Russian Night HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380226.ts
-#EXTINF:-1,XXX:Russian Night (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380227.ts
-#EXTINF:-1,XXX:Barely Legal TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380228.ts
-#EXTINF:-1,XXX:O la la TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380229.ts
-#EXTINF:-1,XXX:Nuart TV HD (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380230.ts
-#EXTINF:-1,XXX:Nuart TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380231.ts
-#EXTINF:-1,XXX:French Lover (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380232.ts
-#EXTINF:-1,XXX:French Lover Europe (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380233.ts
-#EXTINF:-1,XXX:Secret Circle TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380234.ts
-#EXTINF:-1,XXX:Candy TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380235.ts
-#EXTINF:-1,XXX:Penthouse Black TV (18+)
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380236.ts
-#EXTINF:-1,XXX_1: Pink Erotica 1
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380238.ts
-#EXTINF:-1,XXX_1:  18 ADULT 3
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380239.ts
-#EXTINF:-1,XXX_1:  18 ADULT 1
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380240.ts
-#EXTINF:-1,XXX_1:  18 ADULT 2
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380241.ts
-#EXTINF:-1,XXX_1:  18 ADULT 4
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380242.ts
-#EXTINF:-1,XXX_1:  18 ADULT 5
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380243.ts
-#EXTINF:-1,XXX_1:  18 ADULT 7
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380244.ts
-#EXTINF:-1,XXX_1:  18 ADULT 8
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380245.ts
-#EXTINF:-1,XXX_1:  18 ADULT 6
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380246.ts
-#EXTINF:-1,XXX_1:  18 ADULT 9
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380247.ts
-#EXTINF:-1,XXX_1:  18 ADULT 11
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380248.ts
-#EXTINF:-1,XXX_1:  18 ADULT 12
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380249.ts
-#EXTINF:-1,XXX_1:  18 ADULT 10
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380250.ts
-#EXTINF:-1,XXX_1:  18 ADULT 13
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380251.ts
-#EXTINF:-1,XXX_1:  18 ADULT 15
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380252.ts
-#EXTINF:-1,XXX_1:  18 ADULT 16
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380253.ts
-#EXTINF:-1,XXX_1:  18 ADULT 17
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380254.ts
-#EXTINF:-1,XXX_1:  18 ADULT 14
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380255.ts
-#EXTINF:-1,XXX_1:  18 ADULT 18
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380256.ts
-#EXTINF:-1,XXX_1:  18 ADULT 20
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380257.ts
-#EXTINF:-1,XXX_1:  18 ADULT 19
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380258.ts
-#EXTINF:-1,XXX_2: ADULT 1
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380259.ts
-#EXTINF:-1,XXX_2: ADULT 2
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380260.ts
-#EXTINF:-1,XXX_2: ADULT 3
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380261.ts
-#EXTINF:-1,XXX_2: ADULT 4
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380262.ts
-#EXTINF:-1,XXX_2: ADULT 5
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380263.ts
-#EXTINF:-1,XXX_2: ADULT 6
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380264.ts
-#EXTINF:-1,XXX_2: ADULT 7
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380265.ts
-#EXTINF:-1,XXX_2: ADULT 8
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380266.ts
-#EXTINF:-1,XXX_2: ADULT 9
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380267.ts
-#EXTINF:-1,XXX_2: ADULT 10
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380268.ts
-#EXTINF:-1,XXX_2: ADULT 11
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380269.ts
-#EXTINF:-1,XXX_2: ADULT 12
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380270.ts
-#EXTINF:-1,XXX_2: ADULT 13
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380271.ts
-#EXTINF:-1,XXX_2: ADULT 14
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380272.ts
-#EXTINF:-1,XXX_2: ADULT 15
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380273.ts
-#EXTINF:-1,XXX_2: ADULT 16
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380274.ts
-#EXTINF:-1,XXX_2: ADULT 17
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380275.ts
-#EXTINF:-1,XXX_2: ADULT 18
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380276.ts
-#EXTINF:-1,XXX_2: ADULT 19
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380277.ts
-#EXTINF:-1,XXX_2: ADULT 20
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380278.ts
-#EXTINF:-1,XXX_2: ADULT 21
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380279.ts
-#EXTINF:-1,XXX_2: ADULT 22
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380280.ts
-#EXTINF:-1,XXX_2: ADULT 23
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380281.ts
-#EXTINF:-1,XXX_2: ADULT 24
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380282.ts
-#EXTINF:-1,XXX_2: ADULT 25
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380283.ts
-#EXTINF:-1,XXX_2: ADULT 26
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380284.ts
-#EXTINF:-1,XXX_2: ADULT 27
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380285.ts
-#EXTINF:-1,XXX_2: ADULT 28
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380286.ts
-#EXTINF:-1,XXX_2: ADULT 29
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380287.ts
-#EXTINF:-1,XXX_2: ADULT 30
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380288.ts
-#EXTINF:-1,XXX_2: ADULT 31
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380289.ts
-#EXTINF:-1,XXX_2: ADULT 32
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380291.ts
-#EXTINF:-1,XXX_2: ADULT 35
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380293.ts
-#EXTINF:-1,XXX_2: ADULT 36
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380294.ts
-#EXTINF:-1,XXX_2: ADULT 37
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380295.ts
-#EXTINF:-1,XXX_2: ADULT 38
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380296.ts
-#EXTINF:-1,XXX_2: ADULT 39
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380297.ts
-#EXTINF:-1,XXX_2: ADULT 40
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380298.ts
-#EXTINF:-1,XXX_2: ADULT 41
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380299.ts
-#EXTINF:-1,XXX_2: ADULT 42
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380300.ts
-#EXTINF:-1,XXX_2: ADULT 43
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380301.ts
-#EXTINF:-1,XXX_2: ADULT 44
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380302.ts
-#EXTINF:-1,XXX_2: ADULT 45
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380303.ts
-#EXTINF:-1,XXX_2: ADULT 46
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380304.ts
-#EXTINF:-1,XXX_2: ADULT 47
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380305.ts
-#EXTINF:-1,XXX_2: ADULT 49
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380307.ts
-#EXTINF:-1,XXX_2: ADULT 50
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380308.ts
-#EXTINF:-1,XXX_2: ADULT 51
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380309.ts
-#EXTINF:-1,XXX_2: ADULT 52
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380310.ts
-#EXTINF:-1,XXX_2: ADULT 53
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380311.ts
-#EXTINF:-1,XXX_2: ADULT 54
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380312.ts
-#EXTINF:-1,XXX_2: ADULT 55
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380313.ts
-#EXTINF:-1,XXX_2: ADULT 56
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380314.ts
-#EXTINF:-1,XXX_2: ADULT 57
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380315.ts
-#EXTINF:-1,XXX_2: ADULT 58
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380316.ts
-#EXTINF:-1,XXX_2: ADULT 59
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380317.ts
-#EXTINF:-1,XXX_2: ADULT 60
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380318.ts
-#EXTINF:-1,XXX_2: ADULT 61
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380319.ts
-#EXTINF:-1,XXX_2: ADULT 62
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380320.ts
-#EXTINF:-1,XXX_2: ADULT 63
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380321.ts
-#EXTINF:-1,XXX_2: ADULT 64
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380322.ts
-#EXTINF:-1,XXX_2: ADULT 65
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380323.ts
-#EXTINF:-1,XXX_2: ADULT 66
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380324.ts
-#EXTINF:-1,XXX_2: ADULT 67
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380325.ts
-#EXTINF:-1,XXX_2: ADULT 68
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380326.ts
-#EXTINF:-1,XXX_2: ADULT 69
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380327.ts
-#EXTINF:-1,XXX_2: ADULT 70
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380328.ts
-#EXTINF:-1,XXX_2: ADULT 71
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380329.ts
-#EXTINF:-1,XXX_2: ADULT 72
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380330.ts
-#EXTINF:-1,XXX_2: ADULT 73
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380331.ts
-#EXTINF:-1,XXX_2: ADULT 74
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380332.ts
-#EXTINF:-1,XXX_2: ADULT 75
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380333.ts
-#EXTINF:-1,XXX_2: ADULT 76
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380334.ts
-#EXTINF:-1,XXX_2: ADULT 77
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380335.ts
-#EXTINF:-1,XXX_2: ADULT 78
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380336.ts
-#EXTINF:-1,XXX_2: ADULT 79
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380337.ts
-#EXTINF:-1,XXX_2: ADULT 80
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380338.ts
-#EXTINF:-1,XXX_2: ADULT 81
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380339.ts
-#EXTINF:-1,XXX_2: ADULT 82
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380340.ts
-#EXTINF:-1,XXX_2: ADULT 83
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380341.ts
-#EXTINF:-1,XXX_2: ADULT 85
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380343.ts
-#EXTINF:-1,XXX_2: ADULT 86
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380344.ts
-#EXTINF:-1,XXX_2: ADULT 87
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380345.ts
-#EXTINF:-1,XXX_2: ADULT 88
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380346.ts
-#EXTINF:-1,XXX_2: ADULT 89
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380347.ts
-#EXTINF:-1,XXX_2: ADULT 90
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380348.ts
-#EXTINF:-1,XXX_2: ADULT 91
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380349.ts
-#EXTINF:-1,XXX_2: ADULT 92
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380350.ts
-#EXTINF:-1,XXX_2: ADULT 93
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380351.ts
-#EXTINF:-1,XXX_2: ADULT 95
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380353.ts
-#EXTINF:-1,XXX_2: ADULT 96
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380354.ts
-#EXTINF:-1,XXX_2: ADULT 97
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380355.ts
-#EXTINF:-1,XXX_2: ADULT 98
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380356.ts
-#EXTINF:-1,XXX_2: ADULT 99
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380357.ts
-#EXTINF:-1,XXX_2: ADULT 100
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380358.ts
-#EXTINF:-1,XXX_2: ADULT 101
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380359.ts
-#EXTINF:-1,XXX_2: ADULT 102
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380360.ts
-#EXTINF:-1,XXX_2: ADULT 103
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380361.ts
-#EXTINF:-1,XXX_2: ADULT 104
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380362.ts
-#EXTINF:-1,XXX_2: ADULT 105
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380363.ts
-#EXTINF:-1,XXX_2: ADULT 106
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380364.ts
-#EXTINF:-1,XXX_2: ADULT 107
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380365.ts
-#EXTINF:-1,XXX_2: ADULT 108
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380366.ts
-#EXTINF:-1,XXX_2: ADULT 109
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380367.ts
-#EXTINF:-1,XXX_2: ADULT 110
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/380368.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Brazzers Europe
+http://s5.1tv.to/hls/ampUNEtFVFhNb3ZaSTE1QUVQTWNuT0hmWng1M1BmdFJjSUZCNjVVNTl4QjVzY2pONFFRbXFxcUIzVGhHbUkwc2ZrNlJicElrc2VNb0lPNEtjR2JnU3R1dHZvSnZML091bElKR3ZNSmozbHYwMEZhakFZRXZGSndwU056b0ZwNStzSG5VQmRja0xGMVlFS1U2M0k4Zm9TT24vM3VTMlRaSlo1NXIxelhLNHdaL0E0cDQvOUN2aTFXWlpySWlBUkFJTFFkSVdPTllOdlBLSUZjZUN0dHhJM0JWZ1gveTQ3VnR4YVp0N0ZSTmlhV1ZrVkwxMXhKbG9BUSs4SHpyU2h5RkhDdjkxenNqc3ZRWkh4KzVZMXYzM3c9PQ.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Ox-Ax
+http://s19.1tv.to/hls/UU5Fbk9rR3VtSzlGRGRERWhzVnRVQnVoamt3d2RmS0ViNm1walRLWW9renJPNEJoVFpmZVdNd2QyaTErdG5yT1pYT1E5Mm9pTlNXVjdScGljc3VnSkQyR0ZTaW9lczlOdi95QVlhdWRmYmJDR2ZxblduUm4xTmg0NTlCVU1LdnZ6dnAyWmtFRElxL3VQR3A5MHlBMTdsazZGR1Q5dEpzQUpJRUJoQjZZVTh5NTlKUkcyd2hPa1BTOXZqVmw0aFJ0bldaL1pFSzZpcFFJTUNCODk1bTJCM00yTHN6OWNBM1E3U2QwRUU4RVJpRXB2QnozaW5HVnJUbGpUbThTVVlhYjVzakRSb2doNEY2VWV0WXZOSVlqTWc9PQ.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAP TV - Anal
+http://s25.1tv.to/hls/cmZ0QkpUZGtYb0hRUGVMdDlvUWRKYkVxZmdyV2RnMWJ4RGlTUzI3VEJsRDhSRUwzVDM1Z3hZYTFjNUNNUXQvTUdlWGJQS0F1NnNxZnlFMFhSVzRGZkhPV3RNWi9lcmFVZlhXOUhRMHFiNEViVGl0TjBmMlVjRlNHeHovUzRDUTlITzZ5L05PajNaUjY2c1dhOHlFajZJUVJybUlqMXBiTG9VUVFoZWlLNVpyMXFxTmZpSjVGRk0yNW5odno0ci90bC9kY0pYcTFqeUo1MWFuUnNJRXQ0aGFmbGFlV3BibjJDa2drZ1hnVWd3UVArcVBDQW9TZkZoc0xFa0dXMmhjbjdyNExPTnB4WWpiUm4xcjV4Y092R3c9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAP TV - Parody
+http://s26.1tv.to/hls/SUxXYjh2N042ZDdzUXUzeHlqSTY2SE1GTDVpSVVYSk9jS0hramNmZ2FwZ0I0V1V1NlE1enQxYTJEdjF2cGNNUEc3RjNESEU1MWlkaG8yK3JzSllOdmlUcURWN0psT0ZSOWx3YytNbU1kVDZzamE5OXNOdE1VTFFYVldOajRSTWF2Vk5nQW93c1pVaDhKdDNVSlB3LzJ6SU5MdHFCQmhhQTR3eGxEKzJnNWt1L0l3Y05sN0l4elhobGo3WFFudmxVb0I5UEFzYTd5ZnhoZ1VKcXVlREJkQnUyNWN0M2p3TU1KTVVMNlBId0tLQU5MdzVpa1dyTnAycDFWa3dBUzFWMm1BQndub0N0RmE3U044UFJWNm9leFE9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAP TV - Teens
+http://s27.1tv.to/hls/bE82bXNNaVBiODZLN0hlaURmUm5JVnM0SkQ3c2Zjc1ZlcThXb0lYOVd3Rzg1YVk1TU1YMm4zTXhaalE2VzB0NjA1ZjJ1cDVKWUFrY0E3cXB6eVl5TU1OazYwZXFVSVNzSGNDN1M3N0Y3dUVQSEpMdTd6ekVaRTMyS2FXU29GMkk1K3E4Z1pwWSsyUzJSNW8ybms1a1RCSW1NRW9EUlFkTG9Gc0Zndk5qN1B6R1hMY1lvMUIzSlpUUTl4OVJGaENjOEdPWUVvc1BxNjlrQThpSzF2anBEVS95WUJna1VnaXVpRW05cE5SWXlnVHhxNXBxc3VBZG1qMUhzaFZvdzRoTysyViswd25JMXpIeElmYnhTRDBiMGc9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAP TV Compilation
+http://s29.1tv.to/hls/elorWHFPZTNFVk93V0wwYjdEMkFneWk1WCtYTUx0RVFtQ2V3d0R2VEpVNFBTS0RLaWJwNDNHbXZTamVkZDl4ZTR1SWpmOFJGM21aWDRBRXpidTBHMk1aUk9xK0VzS1pnRnM2Y0RwclRpbjIweVA5aWlGZGZkZmd2UE1Cak9QNHdPVWlaczdTd1MrZTRqWTJ5WjZRU0ZrZU1VWTVQWWhQRkVOTGQveWpyT1dpcG1QLzdaU1JkK3NaREtkV3NIUVV1dU9EYXBybnZadHI5K25vWmgrSmlxM0tjZGpua2dBckp6aGs3NS82QVpkN3l5UGxZbUtsTHRBdWJWWmUzNXBYMWE4ak9SeFE0SFhhekpheFZUajRmMHc9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAP TV 2
+http://s22.1tv.to/hls/SHErcjBJaysyRXBUMHNrd05pTUdTZWxpUy9YNmNwT0Jic2VxMTd2QkVFempwMkFiWk1JOFFaakZDOXRtUWxodithQ2dkazIrb3BGclY1TGd2VS81U1Z4NlRWcStMZklQVTloYy80ZFlJSWlpRWI4czAyekh4UEdVZ1FrREhQVWRXNXFhM2JMcFlPRndxak5Pc1VVZWJUcEdZc3BOMW1HZmxOWVpVVWN3eld4dGJ4R1g2RGZBNEJXTnBpdGU4YjZEUFRFdzdmeVVzRXNvazdYclBuR2RtY3FzWjNOZE5GcXhxdmxBTk5RbVZKTHEzYjhFQjQ2VmZSYUowTVBLNTZNZk9JRmw2NE1oL25FMG5DZ3ZVbVRsQkE9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAP TV 3
+http://s23.1tv.to/hls/VVBDRVpoZUFzczdLektwWkpOZXowQlZCYy84Z2RXUVRFb2c4a2ZLSk9kZEUxTlcwNVhieDRyWVNhajZWYnlrQ3pHV25CSXJKa2IrOWJTTU5qOWh1RFRvcUVUZkJrd01PcnVHYUNZYVY3Q0p1V1dEREFmbncyVzhHMjdicVNqcFJmejhRSlNuekVlc1RMaXVndU9kNzdJQVEzZytObU9mc1FFZUVNWkI3Tm1NL2s1RkRGajdUVVRFME5wajkyR09RSndQMGZWclBtaktLeDIzUzZyTEYxbUdDbjhjWXN2S2xjMjI4UmZjYk1MbzZYenlZaXhVWFBLWWI5MU5QQUxHTFdmQVB6d0ltTHFpOTJBMlJWRGNzR3c9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", FAP TV 4
+http://s24.1tv.to/hls/T0V1aUh0V1VEazBZNHY3NGJ2bHZIUE5YWWd1Wml0MXRhU0dDclJQT3Qxek5iQ1QxVVhFdlJKYjJMVWVmVU80aU5qSWxuYm1hYnM5Z0VRVkV5bWVkcmJDSE51L2FMTUJQaWR5K0tQcWMvcmZMbk1EODUyd2ZlR0d0dnY0eXFtQnhoM1lXYVV5ekRjM1pROGV5VnZmSEdIWUhHVExhTThnSHU1eStGcGFXMHlscWVOMnBLZG1Qc2E5ai9pZnVBVVJuSkV6KzYrNnBGN01vblcxYWhEeGM5aS9nenVGTFpPc3ZVNWZtRXdpc2kwWmVEY0U0Tm03ZWFONWZQZEcrOVhheW4zOHVldjF1NEFTMEU3RzllR1EreEE9PQ.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", JasminTV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w507996800.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Naughty TV
+http://s18.1tv.to/hls/cmZ0QkpUZGtYb0hRUGVMdDlvUWRKZlpvSzhFd3NIbno3ZG5YdWxwczhsUFVBQkZ4M2J5VUZLd2pCRlcxYkdvRlBWeG8vY2tEUW1vMTE4dHV1WStsdFoxTkhKQXhKVFR2MlAzeDVKb0VESVlzQzV1dnpWU3RLVDFub3dZTitBOW0yUWplSExsMDZDbDd2eU4wWHVGM0dIc2tEbC8rWE5PKzRkREFpaUozbTQrTm9mbmVYTTFwQ1ZaSVBUa0dkcVIydWZ4bWdqMitnK0V2VFp6ZmF0NVYxaUJIL1hnRHlwREg0eGtRUHdUemJLUVozbTM4bURXY3ptSEtCb25iUWxjdzUram5jMkJad1JNcUdqcFhFcFRHTXc9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", O-La-La
+http://s4.1tv.to/hls/WEVXUzB3dGpGUWkzbjgrZElWSGdGaWY0UEVLaVY0b2FKNm9maHZvbXhzeGVPTjRKbTRwS1R6bjZ5elNQL2FEV1h5MjdSV3BnYm1NT3VBcHBIMkZMQnZ2SmplaUptU2dPckRUR0pyZ2RMZTRLLzdJUHJad2NRL3Q3Q3RDVllhMlMwTEJCT3JnalQxWXVUU0IxMFl4eHBwRjJtYzdXKzI1UGVkVjZQZkw2SVB5VEI3Vm5Td2Y4SFdNUUduS2lST2tDSVo0TGdDc3ZadmttL0huUk5ZVFpUbjQxcTFCOXRLam90R0VFQklETVFvVndEZnprMXlqQ2RINTZ2UGZxbFhwMFhxbmNDMW5uRlc0TUQzcXh0VDlKdXc9PQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", Private Spice TV
+http://s8.1tv.to/hls/SDdUbXN1eEMwM0FDYzJWT2Q5TEdXZS9MdlhOV3pKMWluRlVNdk03T3BUT3Mzd0N4SU1MVmVaOVpYbldOOWdSQUUyMDJ5MGRCcjdTbC91ME1Sa3pEZFBwS3JPZ0o5dVlpV2xOeU5STGhOZ21ZRnEvaEJHNWJJRm91UjFRU0dqRTlGQ1RoVmE3YW1LZnJTcWRjeXYyWnRzTjF6ek00aDV2UmhaUmFkWndxMXRjeUExeHZmZEw0VHFycm5QNkJkaitBNjRiT2x6TnFJUHcyaGJJbFVNYjBhRmNWNE9jWGhvNk1FN05OVFl4NW5lb0FVR1QwYzRWZ0tGVGJoSyt0WUJLN1lLMzdyV3czdzQwK0xSSkNqaU1ZK0E9PQ.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 1
+https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 2
+https://cdn1.ibizastream.biz:441/free/2/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 4
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 5
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 6
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 7
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 8
+http://live.redtraffic.xyz/fetish.m3u8
 
 
 

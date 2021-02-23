@@ -21,8 +21,9 @@ https://www.youtube.com/watch?v=-UJlcdni8cM&feature=emb_logo
 #EXTINF:-1 group-title="Greece" tvg-name="digea.alpha.gr" tvg-logo="http://greektv.pbworks.com/f/ALPHA.png",ALPHA HD
 https://alphalive-i.akamaihd.net/hls/live/682300/live/high/prog_index.m3u8
 
+
 #EXTINF:-1 group-title="Greece" tvg-name="digea.skai.gr" tvg-logo="https://i.imgur.com/xokA84y.png",SKAI HD 
-https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 
 #EXTINF:-1 group-title="Greece" tvg-name="digea.star.gr" tvg-logo="http://greektv.pbworks.com/f/STAR.png”,STAR TV HD
 https://starlive4-llold-dav1.siliconweb.com/media/star1/star1lowhd.m3u8
@@ -38,9 +39,6 @@ https://stream-08.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybDWwpUy776u8eES9hT
 
 #EXTINF:-1 group-title="Greece" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/kcmblc8k/2728/chunklist.m3u8
-
-#EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/FKJ6N9p.png",GREEK CINEMA
-https://bit.ly/3ownRrv
 
 #EXTINF:-1 group-title="Greece" tvg-name="digea.channel9.gr" tvg-logo="https://i.imgur.com/H6s5t1z.jpg",CHANNEL 9 
 https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
