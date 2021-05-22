@@ -54,3 +54,6 @@ https://www.youtube.com/watch?v=RYmwBFDv6Gk&feature=emb_logo
 
 #EXTINF:-1 group-title="Greece" tvg-name="dives.kontra.gr" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/newlogokontra.png",KONTRA TV
 https://kontralive.siliconweb.com/live/kontratv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cosmote.gr%2Fportal%2Fresidential%2Fprogram%2Fepg%2Fcloseupchannel%3Fp_p_id%3Dchannelcloseup_WAR_OTETVportlet%26p_p_lifecycle%3D0%26_channelcloseup_WAR_OTETVportlet_articleId%3D38605&psig=AOvVaw2aNpw8wcxRQtszLCJ5gG5M&ust=1621793750826000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDCmtby3fACFQAAAAAdAAAAABAD",Cosmote Sport 1
+https://hlscat.com/my_list/s/3fb10fa5f344560db267901c12aba810.m3u8
